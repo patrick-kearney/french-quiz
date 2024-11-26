@@ -1,0 +1,38 @@
+french,gender,english,count_or_mass
+chose,f,thing/object/item,count
+homme,m,man,count
+femme,f,woman/wife,count
+vie,f,life,count
+dieu,m,god,count
+an,m,year (as in a precise moment or time unit when an action took place eg 'I spent a year in Spain'),count
+année,f, year (emphasizing the duration or length of time as in 'During his sabbatical year'),count
+grotte,f,cave,count
+fourmi,f, ant,count
+loi,f, law,count
+serpent,m, snake,count
+moustique,f, mosquito,count
+sang,m, blood,mass
+portail,m, front gate,count
+repos,m, rest or holiday,count
+taille,f, size,count
+mensonge,m, lie or the act lying,count
+requin,m, shark,count
+hérisson,m,hedgehog,count
+huile,f,oil eg for cooking or machinery,mass
+humour,m,humour (as in a sense of humour),mass
+handisport,m,parasport,count
+haricot,m,bean,count
+honte,f,shame,mass
+haie,f,hedge,count
+bonheur,m,happiness,mass
+timbre,m,stamp/tone or timbre),count
+forêt,f,forest,count
+témoin,m,witness,count
+star,f,star (in sense of a pop star),count
+personne,f,person (can be counted),count
+victime,f,victim,count
+balle,f,bullet,count
+cravate,f,tie (as in necktie),count
+bagarre,f,fight,count
+arme,f,weapon (as in 'he was caught with a weapon'),count
+preuve,f,proof or evidence,mass
