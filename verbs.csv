@@ -1,7 +1,2022 @@
 infinitif,conjugated_like,participe_présent,participe_passé,forme_pronominale
+être,être,étant,été,–
+avoir,avoir,ayant,eu,–
+aller,aller,allant,allé,–
+faire,faire,faisant,fait,se faire 
+dire,dire,disant,dit,se dire 
+pouvoir,pouvoir,pouvant,pu,se pouvoir 
+vouloir,vouloir,voulant,voulu,se vouloir 
+savoir,savoir,sachant,su,se savoir 
+voir,voir,voyant,vu,se voir 
+devoir,devoir,devant,dû,se devoir
+venir,tenir,venant,venu,–
+suivre,suivre,suivant,suivi,se suivre 
 parler,parler,parlant,parlé,se parler 
+prendre,prendre,prenant,pris,se prendre 
+croire,croire,croyant,cru,se croire 
+aimer,parler,aimant,aimé,s'aimer 
+falloir,falloir,–,fallu,–
+passer,parler,passant,passé,se passer 
+penser,parler,pensant,pensé,se penser 
+attendre,vendre,attendant,attendu,s'attendre 
+trouver,parler,trouvant,trouvé,se trouver 
+laisser,parler,laissant,laissé,se laisser 
+arriver,parler,arrivant,arrivé,–
+donner,parler,donnant,donné,se donner 
+regarder,parler,regardant,regardé,se regarder 
+appeler,appeler,appelant,appelé,s'appeler 
+partir,partir,partant,parti,–
+mettre,mettre,mettant,mis,se mettre 
+rester,parler,restant,resté,–
+arrêter,parler,arrêtant,arrêté,s'arrêter 
+connaître,connaître,connaissant,connu,se connaître 
+tuer,parler,tuant,tué,se tuer 
+mourir,mourir,mourant,mort,se mourir 
 demander,parler,demandant,demandé,se demander 
-lever,lever,levant,levé,se lever 
-falloir,falloir,–,fall,u
-choisir,choisir,choisissant,choisi,se choisir 
+comprendre,prendre,comprenant,compris,se comprendre 
+sortir,partir,sortant,sorti,se sortir 
+entendre,vendre,entendant,entendu,s'entendre 
+chercher,parler,cherchant,cherché,se chercher 
+aider,parler,aidant,aidé,s'aider 
+essayer,payer,essayant,essayé,s'essayer 
+revenir,tenir,revenant,revenu,–
+plaire,plaire,plaisant,plu,se plaire 
+jouer,parler,jouant,joué,se jouer 
+finir,choisir,finissant,fini,se finir 
+perdre,vendre,perdant,perdu,se perdre 
+sentir,partir,sentant,senti,se sentir 
+rentrer,parler,rentrant,rentré,se rentrer 
+vivre,vivre,vivant,vécu,se vivre 
+rendre,vendre,rendant,rendu,se rendre 
+tenir,tenir,tenant,tenu,se tenir 
+oublier,copier,oubliant,oublié,s'oublier 
+travailler,parler,travaillant,travaillé,–
+écouter,parler,écoutant,écouté,s'écouter 
+manger,manger,mangeant,mangé,se manger 
+entrer,parler,entrant,entré,–
+devenir,tenir,devenant,devenu,–
+commencer,commencer,commençant,commencé,se commencer 
+payer,payer,payant,payé,se payer 
+tirer,parler,tirant,tiré,se tirer 
+ouvrir,ouvrir,ouvrant,ouvert,s'ouvrir 
+changer,manger,changeant,changé,se changer 
+tomber,parler,tombant,tombé,–
+foutre,vendre,foutant,foutu,se foutre 
+excuser,parler,excusant,excusé,s'excuser 
+dormir,dormir,dormant,dormi,–
+occuper,parler,occupant,occupé,s'occuper 
+marcher,parler,marchant,marché,–
+envoyer,envoyer,envoyant,envoyé,s'envoyer 
+apprendre,prendre,apprenant,appris,s'apprendre 
+boire,boire,buvant,bu,se boire 
+garder,parler,gardant,gardé,se garder 
+montrer,parler,montrant,montré,se montrer 
+asseoir,asseoir,"asseyant, assoyant",assis,s'asseoir 
+porter,parler,portant,porté,se porter 
+souvenir,tenir,souvenant,souvenu,se souvenir 
+prier,copier,priant,prié,–
+servir,servir,servant,servi,se servir 
+écrire,écrire,écrivant,écrit,s'écrire 
+espérer,céder,espérant,espéré,s'espérer 
+désoler,parler,désolant,désolé,se désoler 
+retrouver,parler,retrouvant,retrouvé,se retrouver 
+gagner,parler,gagnant,gagné,–
+acheter,acheter,achetant,acheté,s'acheter 
+rappeler,appeler,rappelant,rappelé,se rappeler 
+lire,lire,lisant,lu,se lire 
+monter,parler,montant,monté,se monter 
+quitter,parler,quittant,quitté,se quitter 
+emmener,lever,emmenant,emmené,–
+toucher,parler,touchant,touché,se toucher 
+continuer,parler,continuant,continué,–
+revoir,voir,revoyant,revu,se revoir 
+importer,parler,important,importé,–
+manquer,parler,manquant,manqué,–
+raconter,parler,racontant,raconté,se raconter 
+répondre,vendre,répondant,répondu,se répondre 
+sauver,parler,sauvant,sauvé,se sauver 
+retourner,parler,retournant,retourné,se retourner 
+rencontrer,parler,rencontrant,rencontré,se rencontrer 
+voler,parler,volant,volé,se voler 
+fermer,parler,fermant,fermé,se fermer 
+valoir,valoir,valant,valu,se valoir 
+descendre,vendre,descendant,descendu,se descendre 
+suffire,confire,suffisant,"i class=""defect""suffii",se suffire 
+sembler,parler,semblant,semblé,se sembler 
+compter,parler,comptant,compté,se compter 
+marier,copier,mariant,marié,se marier 
+poser,parler,posant,posé,se poser 
+inquiéter,céder,inquiétant,inquiété,s'inquiéter 
+bouger,manger,bougeant,bougé,se bouger 
+apporter,parler,apportant,apporté,–
+décider,parler,décidant,décidé,se décider 
 vendre,vendre,vendant,vendu,se vendre 
+tourner,parler,tournant,tourné,se tourner 
+cacher,parler,cachant,caché,se cacher 
+expliquer,parler,expliquant,expliqué,s'expliquer 
+battre,battre,battant,battu,se battre 
+agir,choisir,agissant,agi,s'agir 
+imaginer,parler,imaginant,imaginé,s'imaginer 
+adorer,parler,adorant,adoré,s'adorer 
+recevoir,recevoir,recevant,reçu,se recevoir 
+jeter,appeler,jetant,jeté,se jeter 
+pleurer,parler,pleurant,pleuré,–
+amener,lever,amenant,amené,s'amener 
+promettre,mettre,promettant,promis,se promettre 
+mentir,partir,mentant,menti,se mentir 
+utiliser,parler,utilisant,utilisé,–
+coucher,parler,couchant,couché,se coucher 
+préférer,céder,préférant,préféré,se préférer 
+offrir,ouvrir,offrant,offert,s'offrir 
+réveiller,parler,réveillant,réveillé,se réveiller 
+préparer,parler,préparant,préparé,se préparer 
+permettre,mettre,permettant,permis,se permettre 
+ramener,lever,ramenant,ramené,se ramener 
+enlever,lever,enlevant,enlevé,–
+lâcher,parler,lâchant,lâché,se lâcher 
+choisir,choisir,choisissant,choisi,se choisir 
+conduire,traduire,conduisant,conduit,se conduire 
+calmer,parler,calmant,calmé,se calmer 
+chanter,parler,chantant,chanté,–
+disparaître,connaître,disparaissant,disparu,–
+lever,lever,levant,levé,se lever 
+présenter,parler,présentant,présenté,se présenter 
+accepter,parler,acceptant,accepté,s'accepter 
+casser,parler,cassant,cassé,se casser 
+frapper,parler,frappant,frappé,se frapper 
+ignorer,parler,ignorant,ignoré,s'ignorer 
+couper,parler,coupant,coupé,se couper 
+super,parler,supant,supé,–
+taire,plaire,taisant,tu,se taire 
+tromper,parler,trompant,trompé,se tromper 
+ressembler,parler,ressemblant,ressemblé,se ressembler 
+jurer,parler,jurant,juré,se jurer 
+courir,courir,courant,couru,se courir 
+remettre,mettre,remettant,remis,se remettre 
+refuser,parler,refusant,refusé,se refuser 
+terminer,parler,terminant,terminé,se terminer 
+amuser,parler,amusant,amusé,s'amuser 
+intéresser,parler,intéressant,intéressé,s'intéresser 
+reconnaître,connaître,reconnaissant,reconnu,se reconnaître 
+rire,rire,riant,ri,se rire 
+pardonner,parler,pardonnant,pardonné,se pardonner 
+embrasser,parler,embrassant,embrassé,–
+danser,parler,dansant,dansé,–
+exister,parler,existant,existé,–
+réussir,choisir,réussissant,réussi,–
+protéger,protéger,protégeant,protégé,se protéger 
+prévenir,tenir,prévenant,prévenu,se prévenir 
+habiter,parler,habitant,habité,–
+déranger,manger,dérangeant,dérangé,se déranger 
+reprendre,prendre,reprenant,repris,se reprendre 
+détruire,traduire,détruisant,détruit,se détruire 
+pousser,parler,poussant,poussé,se pousser 
+découvrir,ouvrir,découvrant,découvert,se découvrir 
+sauter,parler,sautant,sauté,se sauter 
+rêver,parler,rêvant,rêvé,se rêver 
+détester,parler,détestant,détesté,se détester 
+paraître,connaître,paraissant,paru,se paraître 
+empêcher,parler,empêchant,empêché,s'empêcher 
+maintenir,tenir,maintenant,maintenu,se maintenir 
+supposer,parler,supposant,supposé,se supposer 
+épouser,parler,épousant,épousé,s'épouser 
+approcher,parler,approchant,approché,s'approcher 
+craindre,craindre,craignant,craint,se craindre 
+crier,copier,criant,crié,–
+inviter,parler,invitant,invité,s'inviter 
+réfléchir,choisir,réfléchissant,réfléchi,se réfléchir 
+arranger,manger,arrangeant,arrangé,s'arranger 
+naître,naître,naissant,né,–
+souffrir,ouvrir,souffrant,souffert,se souffrir 
+remercier,copier,remerciant,remercié,se remercier 
+baiser,parler,baisant,baisé,se baiser 
+attraper,parler,attrapant,attrapé,–
+dépêcher,parler,dépêchant,dépêché,se dépêcher 
+abandonner,parler,abandonnant,abandonné,s'abandonner 
+vérifier,copier,vérifiant,vérifié,se vérifier 
+brûler,parler,brûlant,brûlé,se brûler 
+assurer,parler,assurant,assuré,s'assurer 
+traiter,parler,traitant,traité,se traiter 
+blesser,parler,blessant,blessé,se blesser 
+dégager,manger,dégageant,dégagé,se dégager 
+filer,parler,filant,filé,–
+risquer,parler,risquant,risqué,se risquer 
+mener,lever,menant,mené,–
+attaquer,parler,attaquant,attaqué,s'attaquer 
+fumer,parler,fumant,fumé,–
+répéter,céder,répétant,répété,se répéter 
+signer,parler,signant,signé,se signer 
+ficher,parler,fichant,fiché,se ficher 
+mériter,parler,méritant,mérité,–
+rejoindre,joindre,rejoignant,rejoint,se rejoindre 
+discuter,parler,discutant,discuté,–
+avancer,commencer,avançant,avancé,s'avancer 
+reposer,parler,reposant,reposé,se reposer 
+échapper,parler,échappant,échappé,s'échapper 
+charger,manger,chargeant,chargé,se charger 
+obliger,manger,obligeant,obligé,s'obliger 
+accompagner,parler,accompagnant,accompagné,s'accompagner 
+oser,parler,osant,osé,–
+regretter,parler,regrettant,regretté,–
+prouver,parler,prouvant,prouvé,se prouver 
+dîner,parler,dînant,dîné,–
+couvrir,ouvrir,couvrant,couvert,se couvrir 
+obtenir,tenir,obtenant,obtenu,s'obtenir 
+éviter,parler,évitant,évité,–
+plaisanter,parler,plaisantant,plaisanté,–
+virer,parler,virant,viré,se virer 
+supporter,parler,supportant,supporté,se supporter 
+régler,céder,réglant,réglé,se régler 
+souhaiter,parler,souhaitant,souhaité,se souhaiter 
+créer,créer,créant,créé,se créer 
+surveiller,parler,surveillant,surveillé,se surveiller 
+recommencer,commencer,recommençant,recommencé,se recommencer 
+coûter,parler,coûtant,coûté,–
+parier,copier,pariant,parié,–
+appartenir,tenir,appartenant,appartenu,s'appartenir 
+remarquer,parler,remarquant,remarqué,se remarquer 
+rater,parler,ratant,raté,se rater 
+retirer,parler,retirant,retiré,se retirer 
+tenter,parler,tentant,tenté,se tenter 
+partager,manger,partageant,partagé,se partager 
+ressentir,partir,ressentant,ressenti,se ressentir 
+défendre,vendre,défendant,défendu,se défendre 
+fatiguer,parler,fatiguant,fatigué,se fatiguer 
+prévoir,voir,prévoyant,prévu,se prévoir 
+douter,parler,doutant,douté,se douter 
+apprécier,copier,appréciant,apprécié,s'apprécier 
+fuir,fuir,fuyant,fui,se fuir 
+bosser,parler,bossant,bossé,–
+respirer,parler,respirant,respiré,–
+récupérer,céder,récupérant,récupéré,se récupérer 
+libérer,céder,libérant,libéré,se libérer 
+lancer,commencer,lançant,lancé,se lancer 
+durer,parler,durant,duré,–
+laver,parler,lavant,lavé,se laver 
+sonner,parler,sonnant,sonné,–
+deviner,parler,devinant,deviné,–
+ravir,choisir,ravissant,ravi,se ravir 
+avenir,tenir,avenant,avenu,–
+traverser,parler,traversant,traversé,–
+retenir,tenir,retenant,retenu,se retenir 
+remonter,parler,remontant,remonté,se remonter 
+réaliser,parler,réalisant,réalisé,se réaliser 
+moquer,parler,moquant,moqué,se moquer 
+étudier,copier,étudiant,étudié,–
+installer,parler,installant,installé,s'installer 
+proposer,parler,proposant,proposé,se proposer 
+emporter,parler,emportant,emporté,s'emporter 
+engager,manger,engageant,engagé,s'engager 
+cesser,parler,cessant,cessé,–
+signifier,copier,signifiant,signifié,se signifier 
+réparer,parler,réparant,réparé,–
+construire,traduire,construisant,construit,se construire 
+chier,copier,chiant,chié,–
+profiter,parler,profitant,profité,–
+pleuvoir,pleuvoir,pleuvant,plu,–
+séparer,parler,séparant,séparé,se séparer 
+désirer,parler,désirant,désiré,–
+traîner,parler,traînant,traîné,se traîner 
+respecter,parler,respectant,respecté,se respecter 
+diriger,manger,dirigeant,dirigé,se diriger 
+crever,lever,crevant,crevé,se crever 
+poursuivre,suivre,poursuivant,poursuivi,se poursuivre 
+forcer,commencer,forçant,forcé,se forcer 
+grandir,choisir,grandissant,grandi,–
+interdire,dire,interdisant,interdit,s'interdire 
+baisser,parler,baissant,baissé,se baisser 
+enterrer,parler,enterrant,enterré,s'enterrer 
+causer,parler,causant,causé,se causer 
+survivre,vivre,survivant,survécu,–
+commander,parler,commandant,commandé,–
+ennuyer,employer,ennuyant,ennuyé,s'ennuyer 
+prêter,parler,prêtant,prêté,se prêter 
+nettoyer,employer,nettoyant,nettoyé,se nettoyer 
+atteindre,atteindre,atteignant,atteint,–
+rouler,parler,roulant,roulé,se rouler 
+débarrasser,parler,débarrassant,débarrassé,se débarrasser 
+avouer,parler,avouant,avoué,s'avouer 
+plaindre,craindre,plaignant,plaint,se plaindre 
+remplir,choisir,remplissant,rempli,se remplir 
+contrôler,parler,contrôlant,contrôlé,se contrôler 
+taper,parler,tapant,tapé,se taper 
+téléphoner,parler,téléphonant,téléphoné,se téléphoner 
+dépendre,vendre,dépendant,dépendu,–
+parfaire,faire,parfaisant,parfait,se parfaire 
+étranger,manger,étrangeant,étrangé,–
+renvoyer,envoyer,renvoyant,renvoyé,se renvoyer 
+repartir,partir,repartant,reparti,–
+enfermer,parler,enfermant,enfermé,s'enfermer 
+habiller,parler,habillant,habillé,s'habiller 
+refaire,faire,refaisant,refait,se refaire 
+gêner,parler,gênant,gêné,se gêner 
+éteindre,atteindre,éteignant,éteint,s'éteindre 
+rapporter,parler,rapportant,rapporté,se rapporter 
+coincer,commencer,coinçant,coincé,se coincer 
+surprendre,prendre,surprenant,surpris,se surprendre 
+convaincre,vaincre,convainquant,convaincu,se convaincre 
+livrer,parler,livrant,livré,se livrer 
+juger,manger,jugeant,jugé,se juger 
+annoncer,commencer,annonçant,annoncé,s'annoncer 
+officier,copier,officiant,officié,–
+briser,parler,brisant,brisé,se briser 
+chasser,parler,chassant,chassé,–
+attirer,parler,attirant,attiré,s'attirer 
+allumer,parler,allumant,allumé,s'allumer 
+écraser,parler,écrasant,écrasé,s'écraser 
+arracher,parler,arrachant,arraché,s'arracher 
+sourire,rire,souriant,souri,se sourire 
+inventer,parler,inventant,inventé,s'inventer 
+mêler,parler,mêlant,mêlé,se mêler 
+énerver,parler,énervant,énervé,s'énerver 
+exploser,parler,explosant,explosé,–
+supplier,copier,suppliant,supplié,–
+étonner,parler,étonnant,étonné,s'étonner 
+déposer,parler,déposant,déposé,–
+placer,commencer,plaçant,placé,se placer 
+remplacer,commencer,remplaçant,remplacé,se remplacer 
+accuser,parler,accusant,accusé,s'accuser 
+nourrir,choisir,nourrissant,nourri,se nourrir 
+presser,parler,pressant,pressé,se presser 
+accorder,parler,accordant,accordé,s'accorder 
+emmerder,parler,emmerdant,emmerdé,s'emmerder 
+reculer,parler,reculant,reculé,se reculer 
+élever,lever,élevant,élevé,s'élever 
+accrocher,parler,accrochant,accroché,s'accrocher 
+déjeuner,parler,déjeunant,déjeuné,–
+coller,parler,collant,collé,se coller 
+serrer,parler,serrant,serré,se serrer 
+entraîner,parler,entraînant,entraîné,s'entraîner 
+piquer,parler,piquant,piqué,se piquer 
+admettre,mettre,admettant,admis,s'admettre 
+produire,traduire,produisant,produit,se produire 
+menacer,commencer,menaçant,menacé,se menacer 
+gâcher,parler,gâchant,gâché,se gâcher 
+concerner,parler,concernant,concerné,–
+représenter,parler,représentant,représenté,se représenter 
+bénir,choisir,bénissant,béni,–
+endormir,dormir,endormant,endormi,s'endormir 
+louer,parler,louant,loué,se louer 
+soigner,parler,soignant,soigné,se soigner 
+organiser,parler,organisant,organisé,s'organiser 
+ranger,manger,rangeant,rangé,se ranger 
+couler,parler,coulant,coulé,se couler 
+rigoler,parler,rigolant,rigolé,se rigoler 
+commettre,mettre,commettant,commis,se commettre 
+trahir,choisir,trahissant,trahi,se trahir 
+débrouiller,parler,débrouillant,débrouillé,se débrouiller 
+fâcher,parler,fâchant,fâché,se fâcher 
+attacher,parler,attachant,attaché,s'attacher 
+joindre,joindre,joignant,joint,se joindre 
+voyager,manger,voyageant,voyagé,–
+nommer,parler,nommant,nommé,se nommer 
+rechercher,parler,recherchant,recherché,se rechercher 
+obéir,choisir,obéissant,obéi,–
+saluer,parler,saluant,salué,se saluer 
+mordre,vendre,mordant,mordu,se mordre 
+guérir,choisir,guérissant,guéri,se guérir 
+détendre,vendre,détendant,détendu,se détendre 
+interroger,manger,interrogeant,interrogé,s'interroger 
+faillir,faillir,"faillissant, span class=""antiquated""faillantspan",failli,–
+condamner,parler,condamnant,condamné,se condamner 
+apparaître,connaître,apparaissant,apparu,s'apparaître 
+marquer,parler,marquant,marqué,–
+ramasser,parler,ramassant,ramassé,se ramasser 
+abattre,battre,abattant,abattu,s'abattre 
+considérer,céder,considérant,considéré,se considérer 
+pendre,vendre,pendant,pendu,se pendre 
+combattre,battre,combattant,combattu,se combattre 
+posséder,céder,possédant,possédé,se posséder 
+bouffer,parler,bouffant,bouffé,–
+observer,parler,observant,observé,s'observer 
+dépasser,parler,dépassant,dépassé,–
+fonctionner,parler,fonctionnant,fonctionné,–
+fouiller,parler,fouillant,fouillé,–
+goûter,parler,goûtant,goûté,–
+insister,parler,insistant,insisté,–
+transformer,parler,transformant,transformé,se transformer 
+annuler,parler,annulant,annulé,–
+réunir,choisir,réunissant,réuni,se réunir 
+piger,manger,pigeant,pigé,–
+punir,choisir,punissant,puni,se punir 
+renoncer,commencer,renonçant,renoncé,–
+déclarer,parler,déclarant,déclaré,se déclarer 
+confier,copier,confiant,confié,se confier 
+rompre,vendre,rompant,rompu,se rompre 
+éclater,parler,éclatant,éclaté,s'éclater 
+éloigner,parler,éloignant,éloigné,s'éloigner 
+allonger,manger,allongeant,allongé,s'allonger 
+appuyer,employer,appuyant,appuyé,s'appuyer 
+résoudre,absoudre,résolvant,"i class=""defect""résolui",se résoudre 
+fabriquer,parler,fabriquant,fabriqué,–
+balancer,commencer,balançant,balancé,se balancer 
+filmer,parler,filmant,filmé,se filmer 
+déconner,parler,déconnant,déconné,–
+voiler,parler,voilant,voilé,se voiler 
+former,parler,formant,formé,se former 
+concentrer,parler,concentrant,concentré,se concentrer 
+relever,lever,relevant,relevé,se relever 
+violer,parler,violant,violé,–
+disputer,parler,disputant,disputé,se disputer 
+pisser,parler,pissant,pissé,–
+contacter,parler,contactant,contacté,–
+résister,parler,résistant,résisté,se résister 
+ajouter,parler,ajoutant,ajouté,s'ajouter 
+convenir,tenir,convenant,convenu,se convenir 
+déplacer,commencer,déplaçant,déplacé,se déplacer 
+bloquer,parler,bloquant,bloqué,se bloquer 
+identifier,copier,identifiant,identifié,s'identifier 
+veiller,parler,veillant,veillé,–
+rattraper,parler,rattrapant,rattrapé,se rattraper 
+planter,parler,plantant,planté,se planter 
+viser,parler,visant,visé,se viser 
+promener,lever,promenant,promené,se promener 
+venger,manger,vengeant,vengé,se venger 
+informer,parler,informant,informé,s'informer 
+lier,copier,liant,lié,se lier 
+effrayer,payer,effrayant,effrayé,s'effrayer 
+fêter,parler,fêtant,fêté,se fêter 
+saisir,choisir,saisissant,saisi,se saisir 
+impliquer,parler,impliquant,impliqué,s'impliquer 
+ordonner,parler,ordonnant,ordonné,s'ordonner 
+indiquer,parler,indiquant,indiqué,–
+examiner,parler,examinant,examiné,–
+puer,parler,puant,pué,–
+peindre,atteindre,peignant,peint,se peindre 
+avaler,parler,avalant,avalé,s'avaler 
+démarrer,parler,démarrant,démarré,–
+prétendre,vendre,prétendant,prétendu,se prétendre 
+soutenir,tenir,soutenant,soutenu,se soutenir 
+exiger,manger,exigeant,exigé,–
+visiter,parler,visitant,visité,se visiter 
+saigner,parler,saignant,saigné,se saigner 
+glisser,parler,glissant,glissé,–
+apercevoir,recevoir,apercevant,aperçu,s'apercevoir 
+réserver,parler,réservant,réservé,se réserver 
+provoquer,parler,provoquant,provoqué,se provoquer 
+trembler,parler,tremblant,tremblé,–
+embêter,parler,embêtant,embêté,–
+confirmer,parler,confirmant,confirmé,–
+participer,parler,participant,participé,–
+décevoir,recevoir,décevant,déçu,se décevoir 
+réagir,choisir,réagissant,réagi,–
+hurler,parler,hurlant,hurlé,–
+enregistrer,parler,enregistrant,enregistré,s'enregistrer 
+fixer,parler,fixant,fixé,se fixer 
+révéler,céder,révélant,révélé,se révéler 
+déménager,manger,déménageant,déménagé,–
+admirer,parler,admirant,admiré,s'admirer 
+conseiller,parler,conseillant,conseillé,–
+accueillir,cueillir,accueillant,accueilli,s'accueillir 
+enseigner,parler,enseignant,enseigné,s'enseigner 
+plonger,manger,plongeant,plongé,se plonger 
+habituer,parler,habituant,habitué,s'habituer 
+buter,parler,butant,buté,se buter 
+péter,céder,pétant,pété,–
+emprunter,parler,empruntant,emprunté,–
+noter,parler,notant,noté,–
+verser,parler,versant,versé,se verser 
+dépenser,parler,dépensant,dépensé,se dépenser 
+assassiner,parler,assassinant,assassiné,s'assassiner 
+avertir,choisir,avertissant,averti,s'avertir 
+affronter,parler,affrontant,affronté,s'affronter 
+adresser,parler,adressant,adressé,s'adresser 
+vider,parler,vidant,vidé,se vider 
+échouer,parler,échouant,échoué,–
+assister,parler,assistant,assisté,s'assister 
+parer,parler,parant,paré,se parer 
+nager,manger,nageant,nagé,–
+autoriser,parler,autorisant,autorisé,s'autoriser 
+éliminer,parler,éliminant,éliminé,–
+foncer,commencer,fonçant,foncé,se foncer 
+subir,choisir,subissant,subi,–
+suicider,parler,suicidant,suicidé,se suicider 
+contenir,tenir,contenant,contenu,se contenir 
+hésiter,parler,hésitant,hésité,–
+exprimer,parler,exprimant,exprimé,s'exprimer 
+dessiner,parler,dessinant,dessiné,–
+augmenter,parler,augmentant,augmenté,s'augmenter 
+armer,parler,armant,armé,s'armer 
+voter,parler,votant,voté,–
+opérer,céder,opérant,opéré,–
+dénoncer,commencer,dénonçant,dénoncé,se dénoncer 
+rassurer,parler,rassurant,rassuré,se rassurer 
+contenter,parler,contentant,contenté,se contenter 
+effacer,commencer,effaçant,effacé,s'effacer 
+suggérer,céder,suggérant,suggéré,–
+briller,parler,brillant,brillé,–
+croiser,parler,croisant,croisé,se croiser 
+raser,parler,rasant,rasé,se raser 
+étouffer,parler,étouffant,étouffé,s'étouffer 
+tarder,parler,tardant,tardé,–
+souffler,parler,soufflant,soufflé,–
+décrire,écrire,décrivant,décrit,se décrire 
+raccrocher,parler,raccrochant,raccroché,se raccrocher 
+exciter,parler,excitant,excité,s'exciter 
+cracher,parler,crachant,craché,–
+signaler,parler,signalant,signalé,se signaler 
+réduire,traduire,réduisant,réduit,se réduire 
+vaincre,vaincre,vainquant,vaincu,se vaincre 
+rembourser,parler,remboursant,remboursé,se rembourser 
+gérer,céder,gérant,géré,se gérer 
+divorcer,commencer,divorçant,divorcé,–
+interrompre,vendre,interrompant,interrompu,s'interrompre 
+échanger,manger,échangeant,échangé,–
+noyer,employer,noyant,noyé,se noyer 
+conclure,conclure,concluant,conclu,se conclure 
+repérer,céder,repérant,repéré,se repérer 
+garer,parler,garant,garé,se garer 
+cuisiner,parler,cuisinant,cuisiné,–
+cogner,parler,cognant,cogné,se cogner 
+exagérer,céder,exagérant,exagéré,–
+insulter,parler,insultant,insulté,s'insulter 
+repasser,parler,repassant,repassé,se repasser 
+atterrir,choisir,atterrissant,atterri,–
+barrer,parler,barrant,barré,se barrer 
+tendre,vendre,tendant,tendu,se tendre 
+inspirer,parler,inspirant,inspiré,s'inspirer 
+embarquer,parler,embarquant,embarqué,s'embarquer 
+déchirer,parler,déchirant,déchiré,se déchirer 
+baigner,parler,baignant,baigné,se baigner 
+épargner,parler,épargnant,épargné,s'épargner 
+établir,choisir,établissant,établi,s'établir 
+vomir,choisir,vomissant,vomi,se vomir 
+rassembler,parler,rassemblant,rassemblé,se rassembler 
+raccompagner,parler,raccompagnant,raccompagné,–
+comparer,parler,comparant,comparé,se comparer 
+fournir,choisir,fournissant,fourni,se fournir 
+sacrifier,copier,sacrifiant,sacrifié,se sacrifier 
+débarquer,parler,débarquant,débarqué,–
+torturer,parler,torturant,torturé,se torturer 
+pointer,parler,pointant,pointé,se pointer 
+inscrire,écrire,inscrivant,inscrit,s'inscrire 
+lutter,parler,luttant,lutté,–
+épuiser,parler,épuisant,épuisé,s'épuiser 
+rapprocher,parler,rapprochant,rapproché,se rapprocher 
+sacrer,parler,sacrant,sacré,se sacrer 
+unir,choisir,unissant,uni,s'unir 
+creuser,parler,creusant,creusé,se creuser 
+satisfaire,faire,satisfaisant,satisfait,se satisfaire 
+transmettre,mettre,transmettant,transmis,se transmettre 
+exécuter,parler,exécutant,exécuté,s'exécuter 
+accomplir,choisir,accomplissant,accompli,s'accomplir 
+décrocher,parler,décrochant,décroché,se décrocher 
+prononcer,commencer,prononçant,prononcé,se prononcer 
+impressionner,parler,impressionnant,impressionné,–
+nier,copier,niant,nié,–
+écarter,parler,écartant,écarté,s'écarter 
+guider,parler,guidant,guidé,se guider 
+boucler,parler,bouclant,bouclé,–
+comporter,parler,comportant,comporté,se comporter 
+songer,manger,songeant,songé,se songer 
+remuer,parler,remuant,remué,se remuer 
+balader,parler,baladant,baladé,se balader 
+témoigner,parler,témoignant,témoigné,–
+soulever,lever,soulevant,soulevé,se soulever 
+céder,céder,cédant,cédé,se céder 
+priver,parler,privant,privé,se priver 
+renverser,parler,renversant,renversé,se renverser 
+entourer,parler,entourant,entouré,s'entourer 
+correspondre,vendre,correspondant,correspondu,se correspondre 
+imposer,parler,imposant,imposé,s'imposer 
+sucer,commencer,suçant,sucé,se sucer 
+geler,acheter,gelant,gelé,se geler 
+peser,lever,pesant,pesé,se peser 
+éprouver,parler,éprouvant,éprouvé,–
+enfoncer,commencer,enfonçant,enfoncé,s'enfoncer 
+rejeter,appeler,rejetant,rejeté,se rejeter 
+déshabiller,parler,déshabillant,déshabillé,se déshabiller 
+achever,lever,achevant,achevé,s'achever 
+pourrir,choisir,pourrissant,pourri,se pourrir 
+régner,céder,régnant,régné,–
+parvenir,tenir,parvenant,parvenu,–
+chérir,choisir,chérissant,chéri,se chérir 
+honorer,parler,honorant,honoré,s'honorer 
+repousser,parler,repoussant,repoussé,–
+soucier,parler,souciant,soucié,se soucier 
+exposer,parler,exposant,exposé,s'exposer 
+grouiller,parler,grouillant,grouillé,se grouiller 
+intervenir,tenir,intervenant,intervenu,–
+améliorer,parler,améliorant,amélioré,–
+compliquer,parler,compliquant,compliqué,–
+bourrer,parler,bourrant,bourré,se bourrer 
+transporter,parler,transportant,transporté,se transporter 
+jouir,choisir,jouissant,joui,–
+étendre,vendre,étendant,étendu,s'étendre 
+piéger,protéger,piégeant,piégé,–
+chauffer,parler,chauffant,chauffé,se chauffer 
+cuire,traduire,cuisant,cuit,se cuire 
+soulager,manger,soulageant,soulagé,se soulager 
+pourvoir,pourvoir,pourvoyant,pourvu,se pourvoir 
+estimer,parler,estimant,estimé,s'estimer 
+relâcher,parler,relâchant,relâché,se relâcher 
+craquer,parler,craquant,craqué,–
+décoller,parler,décollant,décollé,–
+disposer,parler,disposant,disposé,–
+publier,copier,publiant,publié,se publier 
+grimper,parler,grimpant,grimpé,–
+réjouir,choisir,réjouissant,réjoui,se réjouir 
+draguer,parler,draguant,dragué,–
+réclamer,parler,réclamant,réclamé,se réclamer 
+tester,parler,testant,testé,–
+piper,parler,pipant,pipé,–
+renseigner,parler,renseignant,renseigné,se renseigner 
+vieillir,choisir,vieillissant,vieilli,se vieillir 
+développer,parler,développant,développé,se développer 
+ruiner,parler,ruinant,ruiné,se ruiner 
+répandre,vendre,répandant,répandu,se répandre 
+brancher,parler,branchant,branché,–
+douer,parler,–,doué,–
+abuser,parler,abusant,abusé,s'abuser 
+reparler,parler,reparlant,reparlé,se reparler 
+soupçonner,parler,soupçonnant,soupçonné,se soupçonner 
+persuader,parler,persuadant,persuadé,se persuader 
+reprocher,parler,reprochant,reproché,se reprocher 
+semer,lever,semant,semé,–
+paniquer,parler,paniquant,paniqué,se paniquer 
+garantir,choisir,garantissant,garanti,se garantir 
+dévorer,parler,dévorant,dévoré,–
+détacher,parler,détachant,détaché,se détacher 
+enquêter,parler,enquêtant,enquêté,–
+mesurer,parler,mesurant,mesuré,se mesurer 
+empoisonner,parler,empoisonnant,empoisonné,s'empoisonner 
+sécher,céder,séchant,séché,se sécher 
+employer,employer,employant,employé,s'employer 
+mouiller,parler,mouillant,mouillé,se mouiller 
+déclencher,parler,déclenchant,déclenché,–
+contrer,parler,contrant,contré,–
+communiquer,parler,communiquant,communiqué,se communiquer 
+pénétrer,céder,pénétrant,pénétré,–
+secouer,parler,secouant,secoué,se secouer 
+fréquenter,parler,fréquentant,fréquenté,–
+cingler,parler,cinglant,cinglé,–
+franchir,choisir,franchissant,franchi,–
+emballer,parler,emballant,emballé,–
+négocier,copier,négociant,négocié,–
+démolir,choisir,démolissant,démoli,–
+planquer,parler,planquant,planqué,se planquer 
+concevoir,recevoir,concevant,conçu,se concevoir 
+navrer,parler,navrant,navré,se navrer 
+bâtir,choisir,bâtissant,bâti,se bâtir 
+étrangler,parler,étranglant,étranglé,s'étrangler 
+consulter,parler,consultant,consulté,–
+transférer,céder,transférant,transféré,se transférer 
+dégoûter,parler,dégoûtant,dégoûté,se dégoûter 
+loger,manger,logeant,logé,se loger 
+consacrer,parler,consacrant,consacré,se consacrer 
+opposer,parler,opposant,opposé,s'opposer 
+éclairer,parler,éclairant,éclairé,s'éclairer 
+appliquer,parler,appliquant,appliqué,s'appliquer 
+dresser,parler,dressant,dressé,se dresser 
+redevenir,tenir,redevenant,redevenu,–
+démissionner,parler,démissionnant,démissionné,–
+envier,copier,enviant,envié,–
+choper,parler,chopant,chopé,–
+capturer,parler,capturant,capturé,–
+évacuer,parler,évacuant,évacué,–
+citer,parler,citant,cité,–
+salir,choisir,salissant,sali,se salir 
+soumettre,mettre,soumettant,soumis,se soumettre 
+célébrer,céder,célébrant,célébré,–
+préoccuper,parler,préoccupant,préoccupé,se préoccuper 
+ralentir,choisir,ralentissant,ralenti,se ralentir 
+envahir,choisir,envahissant,envahi,–
+racheter,acheter,rachetant,racheté,se racheter 
+fondre,vendre,fondant,fondu,se fondre 
+éveiller,parler,éveillant,éveillé,s'éveiller 
+mater,parler,matant,maté,se mater 
+pencher,parler,penchant,penché,se pencher 
+massacrer,parler,massacrant,massacré,–
+recommander,parler,recommandant,recommandé,se recommander 
+défoncer,commencer,défonçant,défoncé,se défoncer 
+ôter,parler,ôtant,ôté,s'ôter 
+dater,parler,datant,daté,–
+gonfler,parler,gonflant,gonflé,se gonfler 
+pêcher,parler,pêchant,pêché,se pêcher 
+investir,choisir,investissant,investi,s'investir 
+accoucher,parler,accouchant,accouché,–
+séduire,traduire,séduisant,séduit,se séduire 
+merder,parler,merdant,merdé,–
+bavarder,parler,bavardant,bavardé,–
+envisager,manger,envisageant,envisagé,s'envisager 
+troubler,parler,troublant,troublé,se troubler 
+reproduire,traduire,reproduisant,reproduit,se reproduire 
+réchauffer,parler,réchauffant,réchauffé,se réchauffer 
+boucher,parler,bouchant,bouché,se boucher 
+tricher,parler,trichant,triché,–
+confondre,vendre,confondant,confondu,se confondre 
+affecter,parler,affectant,affecté,s'affecter 
+confesser,parler,confessant,confessé,se confesser 
+humilier,copier,humiliant,humilié,s'humilier 
+distraire,distraire,distrayant,distrait,se distraire 
+fonder,parler,fondant,fondé,se fonder 
+tremper,parler,trempant,trempé,se tremper 
+abîmer,parler,abîmant,abîmé,s'abîmer 
+applaudir,choisir,applaudissant,applaudi,s'applaudir 
+offenser,parler,offensant,offensé,s'offenser 
+accélérer,céder,accélérant,accéléré,–
+percer,commencer,perçant,percé,se percer 
+déborder,parler,débordant,débordé,–
+féliciter,parler,félicitant,félicité,se féliciter 
+caresser,parler,caressant,caressé,se caresser 
+braquer,parler,braquant,braqué,se braquer 
+dominer,parler,dominant,dominé,se dominer 
+affirmer,parler,affirmant,affirmé,s'affirmer 
+baser,parler,basant,basé,se baser 
+mentionner,parler,mentionnant,mentionné,–
+luire,traduire,luisant,"i class=""defect""luii",–
+enchanter,parler,enchantant,enchanté,s'enchanter 
+maîtriser,parler,maîtrisant,maîtrisé,se maîtriser 
+vexer,parler,vexant,vexé,se vexer 
+justifier,copier,justifiant,justifié,se justifier 
+botter,parler,bottant,botté,se botter 
+parcourir,courir,parcourant,parcouru,–
+boiter,parler,boitant,boité,–
+enculer,parler,enculant,enculé,–
+traduire,traduire,traduisant,traduit,se traduire 
+analyser,parler,analysant,analysé,s'analyser 
+approuver,parler,approuvant,approuvé,s'approuver 
+doubler,parler,doublant,doublé,se doubler 
+encourager,manger,encourageant,encouragé,s'encourager 
+ressortir,choisir,ressortissant,ressorti,–
+kidnapper,parler,kidnappant,kidnappé,–
+circuler,parler,circulant,circulé,–
+adopter,parler,adoptant,adopté,s'adopter 
+claquer,parler,claquant,claqué,–
+conserver,parler,conservant,conservé,se conserver 
+mépriser,parler,méprisant,méprisé,se mépriser 
+conquérir,acquérir,conquérant,conquis,se conquérir 
+déguiser,parler,déguisant,déguisé,se déguiser 
+faucher,parler,fauchant,fauché,–
+foirer,parler,foirant,foiré,–
+nuire,traduire,nuisant,"i class=""defect""nuii",se nuire 
+imiter,parler,imitant,imité,–
+agiter,parler,agitant,agité,s'agiter 
+larguer,parler,larguant,largué,–
+préserver,parler,préservant,préservé,se préserver 
+exercer,commencer,exerçant,exercé,s'exercer 
+déterminer,parler,déterminant,déterminé,se déterminer 
+bander,parler,bandant,bandé,–
+délivrer,parler,délivrant,délivré,se délivrer 
+consoler,parler,consolant,consolé,se consoler 
+figurer,parler,figurant,figuré,se figurer 
+plier,copier,pliant,plié,se plier 
+mélanger,manger,mélangeant,mélangé,se mélanger 
+détourner,parler,détournant,détourné,–
+poignarder,parler,poignardant,poignardé,se poignarder 
+flipper,parler,flippant,flippé,–
+griller,parler,grillant,grillé,–
+isoler,parler,isolant,isolé,s'isoler 
+lécher,céder,léchant,léché,se lécher 
+arroser,parler,arrosant,arrosé,s'arroser 
+composer,parler,composant,composé,–
+distribuer,parler,distribuant,distribué,–
+fourrer,parler,fourrant,fourré,–
+suspendre,vendre,suspendant,suspendu,se suspendre 
+écrouler,parler,écroulant,écroulé,s'écrouler 
+traquer,parler,traquant,traqué,–
+engueuler,parler,engueulant,engueulé,s'engueuler 
+pratiquer,parler,pratiquant,pratiqué,se pratiquer 
+cueillir,cueillir,cueillant,cueilli,se cueillir 
+bouleverser,parler,bouleversant,bouleversé,se bouleverser 
+délirer,parler,délirant,déliré,–
+emménager,manger,emménageant,emménagé,–
+associer,copier,associant,associé,s'associer 
+provenir,tenir,provenant,provenu,–
+user,parler,usant,usé,s'user 
+choquer,parler,choquant,choqué,se choquer 
+défier,copier,défiant,défié,se défier 
+supprimer,parler,supprimant,supprimé,se supprimer 
+adapter,parler,adaptant,adapté,s'adapter 
+agresser,parler,agressant,agressé,–
+fiancer,commencer,fiançant,fiancé,se fiancer 
+tailler,parler,taillant,taillé,se tailler 
+entretenir,tenir,entretenant,entretenu,s'entretenir 
+effondrer,parler,effondrant,effondré,s'effondrer 
+anéantir,choisir,anéantissant,anéanti,s'anéantir 
+demeurer,parler,demeurant,demeuré,–
+piloter,parler,pilotant,piloté,–
+droguer,parler,droguant,drogué,se droguer 
+embaucher,parler,embauchant,embauché,–
+assommer,parler,assommant,assommé,s'assommer 
+rajouter,parler,rajoutant,rajouté,–
+tolérer,céder,tolérant,toléré,se tolérer 
+siffler,parler,sifflant,sifflé,se siffler 
+empirer,parler,empirant,empiré,–
+bousiller,parler,bousillant,bousillé,se bousiller 
+procéder,céder,procédant,procédé,–
+localiser,parler,localisant,localisé,–
+assumer,parler,assumant,assumé,s'assumer 
+relier,copier,reliant,relié,se relier 
+évader,parler,évadant,évadé,s'évader 
+flotter,parler,flottant,flotté,–
+distinguer,parler,distinguant,distingué,se distinguer 
+procurer,parler,procurant,procuré,se procurer 
+détenir,tenir,détenant,détenu,se détenir 
+branler,parler,branlant,branlé,se branler 
+découper,parler,découpant,découpé,–
+tabasser,parler,tabassant,tabassé,–
+dealer,parler,dealant,dealé,–
+activer,parler,activant,activé,s'activer 
+introduire,traduire,introduisant,introduit,s'introduire 
+aborder,parler,abordant,abordé,s'aborder 
+destiner,parler,destinant,destiné,se destiner 
+frotter,parler,frottant,frotté,se frotter 
+économiser,parler,économisant,économisé,s'économiser 
+plaquer,parler,plaquant,plaqué,–
+rétablir,choisir,rétablissant,rétabli,se rétablir 
+flatter,parler,flattant,flatté,se flatter 
+manipuler,parler,manipulant,manipulé,–
+défaire,faire,défaisant,défait,–
+corriger,manger,corrigeant,corrigé,se corriger 
+tordre,vendre,tordant,tordu,se tordre 
+déplaire,plaire,déplaisant,déplu,se déplaire 
+désespérer,céder,désespérant,désespéré,se désespérer 
+trinquer,parler,trinquant,trinqué,–
+calculer,parler,calculant,calculé,–
+balayer,payer,balayant,balayé,–
+classer,parler,classant,classé,–
+gratter,parler,grattant,gratté,se gratter 
+aspirer,parler,aspirant,aspiré,–
+louper,parler,loupant,loupé,se louper 
+refermer,parler,refermant,refermé,se refermer 
+trancher,parler,tranchant,tranché,–
+hériter,parler,héritant,hérité,–
+coopérer,céder,coopérant,coopéré,–
+précipiter,parler,précipitant,précipité,se précipiter 
+retarder,parler,retardant,retardé,se retarder 
+réciter,parler,récitant,récité,se réciter 
+implorer,parler,implorant,imploré,–
+essuyer,employer,essuyant,essuyé,s'essuyer 
+miser,parler,misant,misé,–
+perturber,parler,perturbant,perturbé,–
+ronger,manger,rongeant,rongé,se ronger 
+redescendre,vendre,redescendant,redescendu,se redescendre 
+damer,parler,damant,damé,–
+évoquer,parler,évoquant,évoqué,–
+ramper,parler,rampant,rampé,–
+obséder,céder,obsédant,obsédé,–
+gaspiller,parler,gaspillant,gaspillé,–
+plaider,parler,plaidant,plaidé,–
+ressusciter,parler,ressuscitant,ressuscité,–
+enfiler,parler,enfilant,enfilé,–
+tâcher,parler,tâchant,tâché,–
+dérouler,parler,déroulant,déroulé,–
+hanter,parler,hantant,hanté,–
+flinguer,parler,flinguant,flingué,–
+exclure,conclure,excluant,exclu,s'exclure 
+élire,lire,élisant,élu,s'élire 
+périr,choisir,périssant,péri,–
+limiter,parler,limitant,limité,se limiter 
+maquiller,parler,maquillant,maquillé,se maquiller 
+harceler,acheter,harcelant,harcelé,se harceler 
+recouvrir,ouvrir,recouvrant,recouvert,se recouvrir 
+retomber,parler,retombant,retombé,–
+contrarier,copier,contrariant,contrarié,se contrarier 
+gâter,parler,gâtant,gâté,se gâter 
+surgir,choisir,surgissant,surgi,–
+espionner,parler,espionnant,espionné,–
+modifier,copier,modifiant,modifié,–
+convoquer,parler,convoquant,convoqué,–
+bombarder,parler,bombardant,bombardé,se bombarder 
+pincer,commencer,pinçant,pincé,se pincer 
+défiler,parler,défilant,défilé,se défiler 
+haver,parler,havant,havé,–
+vanter,parler,vantant,vanté,se vanter 
+récolter,parler,récoltant,récolté,–
+déprimer,parler,déprimant,déprimé,–
+évoluer,parler,évoluant,évolué,–
+constater,parler,constatant,constaté,–
+disperser,parler,dispersant,dispersé,se disperser 
+grossir,choisir,grossissant,grossi,–
+refroidir,choisir,refroidissant,refroidi,se refroidir 
+égarer,parler,égarant,égaré,s'égarer 
+effectuer,parler,effectuant,effectué,–
+tourmenter,parler,tourmentant,tourmenté,se tourmenter 
+tracer,commencer,traçant,tracé,se tracer 
+errer,parler,errant,erré,–
+situer,parler,situant,situé,se situer 
+critiquer,parler,critiquant,critiqué,se critiquer 
+revivre,vivre,revivant,revécu,se revivre 
+tracasser,parler,tracassant,tracassé,se tracasser 
+encaisser,parler,encaissant,encaissé,–
+photographier,copier,photographiant,photographié,–
+graver,parler,gravant,gravé,–
+renforcer,commencer,renforçant,renforcé,se renforcer 
+diffuser,parler,diffusant,diffusé,–
+cultiver,parler,cultivant,cultivé,se cultiver 
+compromettre,mettre,compromettant,compromis,se compromettre 
+manifester,parler,manifestant,manifesté,se manifester 
+diviser,parler,divisant,divisé,–
+protester,parler,protestant,protesté,–
+décharger,manger,déchargeant,déchargé,se décharger 
+patienter,parler,patientant,patienté,–
+débuter,parler,débutant,débuté,–
+désigner,parler,désignant,désigné,se désigner 
+explorer,parler,explorant,exploré,–
+infecter,parler,infectant,infecté,s'infecter 
+récompenser,parler,récompensant,récompensé,se récompenser 
+financer,commencer,finançant,financé,se financer 
+progresser,parler,progressant,progressé,–
+baptiser,parler,baptisant,baptisé,–
+insinuer,parler,insinuant,insinué,–
+capter,parler,captant,capté,–
+pécher,céder,péchant,péché,se pécher 
+détecter,parler,détectant,détecté,–
+gueuler,parler,gueulant,gueulé,–
+soupirer,parler,soupirant,soupiré,–
+baver,parler,bavant,bavé,–
+heurter,parler,heurtant,heurté,se heurter 
+aviser,parler,avisant,avisé,s'aviser 
+liquider,parler,liquidant,liquidé,–
+projeter,appeler,projetant,projeté,se projeter 
+refiler,parler,refilant,refilé,se refiler 
+repenser,parler,repensant,repensé,se repenser 
+endurer,parler,endurant,enduré,–
+contaminer,parler,contaminant,contaminé,se contaminer 
+poster,parler,postant,posté,se poster 
+regagner,parler,regagnant,regagné,–
+interpréter,céder,interprétant,interprété,–
+exploiter,parler,exploitant,exploité,–
+stopper,parler,stoppant,stoppé,se stopper 
+émouvoir,mouvoir,émouvant,"i class=""defect""émui",s'émouvoir 
+polir,choisir,polissant,poli,se polir 
+émettre,mettre,émettant,émis,s'émettre 
+redonner,parler,redonnant,redonné,se redonner 
+négliger,manger,négligeant,négligé,se négliger 
+blaguer,parler,blaguant,blagué,–
+surfer,parler,surfant,surfé,–
+blâmer,parler,blâmant,blâmé,se blâmer 
+combler,parler,comblant,comblé,se combler 
+convertir,choisir,convertissant,converti,se convertir 
+fasciner,parler,fascinant,fasciné,–
+surmonter,parler,surmontant,surmonté,se surmonter 
+préciser,parler,précisant,précisé,se préciser 
+présumer,parler,présumant,présumé,–
+expulser,parler,expulsant,expulsé,–
+tousser,parler,toussant,toussé,–
+remporter,parler,remportant,remporté,–
+avérer,céder,avérant,avéré,s'avérer 
+gémir,choisir,gémissant,gémi,–
+apprêter,parler,apprêtant,apprêté,s'apprêter 
+coter,parler,cotant,coté,–
+prédire,dire,prédisant,prédit,se prédire 
+réconcilier,copier,réconciliant,réconcilié,se réconcilier 
+égorger,manger,égorgeant,égorgé,–
+forger,manger,forgeant,forgé,se forger 
+rougir,choisir,rougissant,rougi,–
+écouler,parler,écoulant,écoulé,–
+constituer,parler,constituant,constitué,se constituer 
+rafraîchir,choisir,rafraîchissant,rafraîchi,se rafraîchir 
+clocher,parler,clochant,cloché,–
+redresser,parler,redressant,redressé,se redresser 
+connecter,parler,connectant,connecté,se connecter 
+coudre,coudre,cousant,cousu,se coudre 
+lover,parler,lovant,lové,se lover 
+souper,parler,soupant,soupé,–
+dévoiler,parler,dévoilant,dévoilé,se dévoiler 
+verrouiller,parler,verrouillant,verrouillé,se verrouiller 
+faciliter,parler,facilitant,facilité,se faciliter 
+gronder,parler,grondant,grondé,se gronder 
+raisonner,parler,raisonnant,raisonné,se raisonner 
+naviguer,parler,naviguant,navigué,–
+prescrire,écrire,prescrivant,prescrit,se prescrire 
+dédier,copier,dédiant,dédié,se dédier 
+expédier,copier,expédiant,expédié,–
+dissimuler,parler,dissimulant,dissimulé,se dissimuler 
+imprimer,parler,imprimant,imprimé,–
+bousculer,parler,bousculant,bousculé,se bousculer 
+débattre,battre,débattant,débattu,se débattre 
+encercler,parler,encerclant,encerclé,–
+redire,dire,redisant,redit,se redire 
+accéder,céder,accédant,accédé,–
+contempler,parler,contemplant,contemplé,se contempler 
+scanner,parler,scannant,scanné,–
+extraire,distraire,extrayant,extrait,s'extraire 
+décorer,parler,décorant,décoré,se décorer 
+recueillir,cueillir,recueillant,recueilli,se recueillir 
+éclaircir,choisir,éclaircissant,éclairci,–
+apaiser,parler,apaisant,apaisé,s'apaiser 
+guetter,parler,guettant,guetté,–
+rédiger,manger,rédigeant,rédigé,–
+terrifier,copier,terrifiant,terrifié,se terrifier 
+dicter,parler,dictant,dicté,se dicter 
+coiffer,parler,coiffant,coiffé,se coiffer 
+décéder,céder,décédant,décédé,–
+afficher,parler,affichant,affiché,s'afficher 
+acquérir,acquérir,acquérant,acquis,s'acquérir 
+influencer,commencer,influençant,influencé,s'influencer 
+gerber,parler,gerbant,gerbé,–
+escorter,parler,escortant,escorté,–
+réviser,parler,révisant,révisé,se réviser 
+embrouiller,parler,embrouillant,embrouillé,s'embrouiller 
+planifier,copier,planifiant,planifié,–
+confronter,parler,confrontant,confronté,se confronter 
+invoquer,parler,invoquant,invoqué,–
+inclure,conclure,incluant,"incli class=""defect""usi",s'inclure 
+hisser,parler,hissant,hissé,se hisser 
+manager,manger,manageant,managé,se manager 
+copier,copier,copiant,copié,se copier 
+éduquer,parler,éduquant,éduqué,–
+déshonorer,parler,déshonorant,déshonoré,se déshonorer 
+intégrer,céder,intégrant,intégré,s'intégrer 
+maudire,choisir,"i class=""defect""maudiissant","i class=""defect""mauditi",se maudire 
+advenir,tenir,advenant,advenu,–
+diminuer,parler,diminuant,diminué,se diminuer 
+abriter,parler,abritant,abrité,s'abriter 
+purifier,copier,purifiant,purifié,se purifier 
+neiger,manger,neigeant,neigé,–
+planer,parler,planant,plané,–
+paralyser,parler,paralysant,paralysé,se paralyser 
+prêcher,parler,prêchant,prêché,se prêcher 
+terroriser,parler,terrorisant,terrorisé,–
+aligner,parler,alignant,aligné,s'aligner 
+tripoter,parler,tripotant,tripoté,se tripoter 
+fendre,vendre,fendant,fendu,se fendre 
+clore,clore,closant,clos,se clore 
+coffrer,parler,coffrant,coffré,–
+transpirer,parler,transpirant,transpiré,–
+cerner,parler,cernant,cerné,se cerner 
+enrichir,choisir,enrichissant,enrichi,s'enrichir 
+triompher,parler,triomphant,triomphé,–
+vêtir,vêtir,vêtant,vêtu,se vêtir 
+piller,parler,pillant,pillé,–
+brosser,parler,brossant,brossé,se brosser 
+peiner,parler,peinant,peiné,–
+bouillir,bouillir,bouillant,bouilli,–
+aggraver,parler,aggravant,aggravé,s'aggraver 
+fouetter,parler,fouettant,fouetté,se fouetter 
+gouverner,parler,gouvernant,gouverné,se gouverner 
+saler,parler,salant,salé,–
+enchaîner,parler,enchaînant,enchaîné,s'enchaîner 
+niquer,parler,niquant,niqué,–
+attribuer,parler,attribuant,attribué,s'attribuer 
+consommer,parler,consommant,consommé,–
+inspecter,parler,inspectant,inspecté,–
+ridiculiser,parler,ridiculisant,ridiculisé,se ridiculiser 
+régaler,parler,régalant,régalé,se régaler 
+collaborer,parler,collaborant,collaboré,–
+engendrer,parler,engendrant,engendré,–
+clouer,parler,clouant,cloué,se clouer 
+consister,parler,consistant,consisté,–
+plancher,parler,planchant,planché,–
+résumer,parler,résumant,résumé,se résumer 
+recruter,parler,recrutant,recruté,–
+renaître,naître,renaissant,rené,–
+entamer,parler,entamant,entamé,–
+aboyer,employer,aboyant,aboyé,–
+freiner,parler,freinant,freiné,–
+lasser,parler,lassant,lassé,se lasser 
+rayer,payer,rayant,rayé,se rayer 
+percevoir,recevoir,percevant,perçu,se percevoir 
+inculper,parler,inculpant,inculpé,s'inculper 
+incliner,parler,inclinant,incliné,s'incliner 
+stresser,parler,stressant,stressé,se stresser 
+suer,parler,suant,sué,–
+murmurer,parler,murmurant,murmuré,–
+sous-estimer,parler,sous-estimant,sous-estimé,se sous-estimer 
+agrandir,choisir,agrandissant,agrandi,s'agrandir 
+chialer,parler,chialant,chialé,–
+enflammer,parler,enflammant,enflammé,s'enflammer 
+harper,parler,harpant,harpé,–
+trafiquer,parler,trafiquant,trafiqué,se trafiquer 
+reconstruire,traduire,reconstruisant,reconstruit,se reconstruire 
+définir,choisir,définissant,défini,se définir 
+glacer,commencer,glaçant,glacé,se glacer 
+dérober,parler,dérobant,dérobé,se dérober 
+programmer,parler,programmant,programmé,se programmer 
+démontrer,parler,démontrant,démontré,–
+déployer,employer,déployant,déployé,se déployer 
+improviser,parler,improvisant,improvisé,–
+déduire,traduire,déduisant,déduit,se déduire 
+flirter,parler,flirtant,flirté,–
+chatouiller,parler,chatouillant,chatouillé,se chatouiller 
+muter,parler,mutant,muté,–
+bannir,choisir,bannissant,banni,se bannir 
+contredire,dire,contredisant,contredit,se contredire 
+mijoter,parler,mijotant,mijoté,se mijoter 
+intimider,parler,intimidant,intimidé,–
+rimer,parler,rimant,rimé,–
+infiltrer,parler,infiltrant,infiltré,s'infiltrer 
+renier,copier,reniant,renié,se renier 
+vouer,parler,vouant,voué,se vouer 
+réconforter,parler,réconfortant,réconforté,se réconforter 
+exterminer,parler,exterminant,exterminé,–
+shooter,parler,shootant,shooté,se shooter 
+démonter,parler,démontant,démonté,se démonter 
+injecter,parler,injectant,injecté,–
+cambrioler,parler,cambriolant,cambriolé,–
+exaucer,commencer,exauçant,exaucé,s'exaucer 
+entreprendre,prendre,entreprenant,entrepris,s'entreprendre 
+piétiner,parler,piétinant,piétiné,–
+replier,copier,repliant,replié,se replier 
+gifler,parler,giflant,giflé,–
+rouvrir,ouvrir,rouvrant,rouvert,se rouvrir 
+doucher,parler,douchant,douché,se doucher 
+revendre,vendre,revendant,revendu,se revendre 
+rouiller,parler,rouillant,rouillé,se rouiller 
+irriter,parler,irritant,irrité,s'irriter 
+embarrasser,parler,embarrassant,embarrassé,–
+inonder,parler,inondant,inondé,–
+contourner,parler,contournant,contourné,–
+enfreindre,atteindre,enfreignant,enfreint,s'enfreindre 
+absorber,parler,absorbant,absorbé,s'absorber 
+affaiblir,choisir,affaiblissant,affaibli,s'affaiblir 
+contraindre,craindre,contraignant,contraint,se contraindre 
+intercepter,parler,interceptant,intercepté,–
+surpasser,parler,surpassant,surpassé,se surpasser 
+frire,confire,frisant,frit,se frire 
+fusiller,parler,fusillant,fusillé,–
+affamer,parler,affamant,affamé,s'affamer 
+ronfler,parler,ronflant,ronflé,–
+râler,parler,râlant,râlé,–
+redouter,parler,redoutant,redouté,–
+consumer,parler,consumant,consumé,se consumer 
+infliger,manger,infligeant,infligé,s'infliger 
+tacher,parler,tachant,taché,se tacher 
+souiller,parler,souillant,souillé,se souiller 
+aveugler,parler,aveuglant,aveuglé,s'aveugler 
+proclamer,parler,proclamant,proclamé,se proclamer 
+sécuriser,parler,sécurisant,sécurisé,–
+emprisonner,parler,emprisonnant,emprisonné,s'emprisonner 
+illuminer,parler,illuminant,illuminé,s'illuminer 
+cirer,parler,cirant,ciré,–
+propager,manger,propageant,propagé,se propager 
+démasquer,parler,démasquant,démasqué,se démasquer 
+alerter,parler,alertant,alerté,s'alerter 
+emplir,choisir,emplissant,empli,–
+arnaquer,parler,arnaquant,arnaqué,–
+déchaîner,parler,déchaînant,déchaîné,se déchaîner 
+étaler,parler,étalant,étalé,s'étaler 
+agacer,commencer,agaçant,agacé,s'agacer 
+inciter,parler,incitant,incité,s'inciter 
+maltraiter,parler,maltraitant,maltraité,se maltraiter 
+relire,lire,relisant,relu,se relire 
+restaurer,parler,restaurant,restauré,se restaurer 
+bluffer,parler,bluffant,bluffé,se bluffer 
+inverser,parler,inversant,inversé,–
+questionner,parler,questionnant,questionné,se questionner 
+animer,parler,animant,animé,s'animer 
+équiper,parler,équipant,équipé,s'équiper 
+remarier,copier,remariant,remarié,se remarier 
+saboter,parler,sabotant,saboté,–
+tutoyer,employer,tutoyant,tutoyé,se tutoyer 
+alimenter,parler,alimentant,alimenté,s'alimenter 
+requérir,acquérir,requérant,requis,se requérir 
+dévaliser,parler,dévalisant,dévalisé,–
+qualifier,copier,qualifiant,qualifié,se qualifier 
+camper,parler,campant,campé,se camper 
+désobéir,choisir,désobéissant,désobéi,–
+enrager,manger,enrageant,enragé,–
+soûler,parler,soûlant,soûlé,se soûler 
+suspecter,parler,suspectant,suspecté,–
+brouiller,parler,brouillant,brouillé,se brouiller 
+débrancher,parler,débranchant,débranché,–
+précéder,céder,précédant,précédé,–
+promouvoir,mouvoir,promouvant,"i class=""defect""promui",se promouvoir 
+tarer,parler,tarant,taré,–
+débloquer,parler,débloquant,débloqué,–
+multiplier,copier,multipliant,multiplié,–
+prélever,lever,prélevant,prélevé,–
+expirer,parler,expirant,expiré,–
+secourir,courir,secourant,secouru,se secourir 
+consentir,partir,consentant,consenti,–
+languir,choisir,languissant,langui,se languir 
+licencier,copier,licenciant,licencié,–
+affoler,parler,affolant,affolé,s'affoler 
+confisquer,parler,confisquant,confisqué,–
+feindre,atteindre,feignant,feint,se feindre 
+gober,parler,gobant,gobé,–
+picoler,parler,picolant,picolé,–
+conjurer,parler,conjurant,conjuré,se conjurer 
+ressaisir,choisir,ressaisissant,ressaisi,se ressaisir 
+vénérer,céder,vénérant,vénéré,–
+instruire,traduire,instruisant,instruit,s'instruire 
+angoisser,parler,angoissant,angoissé,s'angoisser 
+reconduire,traduire,reconduisant,reconduit,se reconduire 
+flanquer,parler,flanquant,flanqué,se flanquer 
+sous-titrer,parler,sous-titrant,sous-titré,–
+digérer,céder,digérant,digéré,–
+recoudre,coudre,recousant,recousu,se recoudre 
+jaillir,choisir,jaillissant,jailli,–
+boxer,parler,boxant,boxé,se boxer 
+héberger,manger,hébergeant,hébergé,s'héberger 
+rôder,parler,rôdant,rôdé,–
+passionner,parler,passionnant,passionné,se passionner 
+pleurnicher,parler,pleurnichant,pleurniché,–
+évaluer,parler,évaluant,évalué,–
+collectionner,parler,collectionnant,collectionné,–
+approprier,copier,appropriant,approprié,s'approprier 
+désarmer,parler,désarmant,désarmé,–
+maigrir,choisir,maigrissant,maigri,–
+manier,copier,maniant,manié,–
+charmer,parler,charmant,charmé,se charmer 
+masser,parler,massant,massé,se masser 
+dégonfler,parler,dégonflant,dégonflé,–
+contribuer,parler,contribuant,contribué,–
+hâter,parler,hâtant,hâté,se hâter 
+sceller,parler,scellant,scellé,–
+intriguer,parler,intriguant,intrigué,–
+refléter,céder,reflétant,reflété,se refléter 
+couronner,parler,couronnant,couronné,se couronner 
+renifler,parler,reniflant,reniflé,–
+accabler,parler,accablant,accablé,s'accabler 
+fouiner,parler,fouinant,fouiné,–
+sombrer,parler,sombrant,sombré,–
+chuter,parler,chutant,chuté,–
+motiver,parler,motivant,motivé,se motiver 
+rhabiller,parler,rhabillant,rhabillé,se rhabiller 
+méditer,parler,méditant,médité,–
+relaxer,parler,relaxant,relaxé,se relaxer 
+purger,manger,purgeant,purgé,se purger 
+simuler,parler,simulant,simulé,–
+déterrer,parler,déterrant,déterré,–
+avorter,parler,avortant,avorté,–
+pondre,vendre,pondant,pondu,se pondre 
+brandir,choisir,brandissant,brandi,se brandir 
+survoler,parler,survolant,survolé,–
+démerder,parler,démerdant,démerdé,se démerder 
+ramer,parler,ramant,ramé,–
+peloter,parler,pelotant,peloté,–
+rendormir,dormir,rendormant,rendormi,se rendormir 
+aboutir,choisir,aboutissant,abouti,–
+blanchir,choisir,blanchissant,blanchi,se blanchir 
+culpabiliser,parler,culpabilisant,culpabilisé,se culpabiliser 
+corrompre,vendre,corrompant,corrompu,se corrompre 
+reporter,parler,reportant,reporté,se reporter 
+neutraliser,parler,neutralisant,neutralisé,–
+réessayer,payer,réessayant,réessayé,se réessayer 
+acquitter,parler,acquittant,acquitté,s'acquitter 
+basculer,parler,basculant,basculé,se basculer 
+endommager,manger,endommageant,endommagé,–
+poindre,joindre,poignant,point,–
+prolonger,manger,prolongeant,prolongé,se prolonger 
+pomper,parler,pompant,pompé,–
+taquiner,parler,taquinant,taquiné,se taquiner 
+croquer,parler,croquant,croqué,–
+envelopper,parler,enveloppant,enveloppé,s'envelopper 
+chuchoter,parler,chuchotant,chuchoté,–
+gaffer,parler,gaffant,gaffé,–
+rajeunir,choisir,rajeunissant,rajeuni,se rajeunir 
+hospitaliser,parler,hospitalisant,hospitalisé,s'hospitaliser 
+accourir,courir,accourant,accouru,–
+ménager,manger,ménageant,ménagé,se ménager 
+bouder,parler,boudant,boudé,se bouder 
+bagarrer,parler,bagarrant,bagarré,se bagarrer 
+bondir,choisir,bondissant,bondi,–
+bronzer,parler,bronzant,bronzé,se bronzer 
+dénicher,parler,dénichant,déniché,se dénicher 
+résonner,parler,résonnant,résonné,–
+repeindre,atteindre,repeignant,repeint,se repeindre 
+manigancer,commencer,manigançant,manigancé,se manigancer 
+scier,copier,sciant,scié,–
+mâcher,parler,mâchant,mâché,–
+léguer,céder,léguant,légué,se léguer 
+désactiver,parler,désactivant,désactivé,–
+égaler,parler,égalant,égalé,–
+épater,parler,épatant,épaté,s'épater 
+dégainer,parler,dégainant,dégainé,–
+relancer,commencer,relançant,relancé,se relancer 
+résider,parler,résidant,résidé,–
+abaisser,parler,abaissant,abaissé,s'abaisser 
+surnommer,parler,surnommant,surnommé,se surnommer 
+épier,copier,épiant,épié,–
+trébucher,parler,trébuchant,trébuché,–
+déserter,parler,désertant,déserté,–
+compléter,céder,complétant,complété,se compléter 
+ajuster,parler,ajustant,ajusté,s'ajuster 
+déchiffrer,parler,déchiffrant,déchiffré,–
+escalader,parler,escaladant,escaladé,–
+décréter,céder,décrétant,décrété,–
+survenir,tenir,survenant,survenu,–
+rallumer,parler,rallumant,rallumé,se rallumer 
+élargir,choisir,élargissant,élargi,–
+contester,parler,contestant,contesté,–
+décourager,manger,décourageant,découragé,se décourager 
+stabiliser,parler,stabilisant,stabilisé,se stabiliser 
+miner,parler,minant,miné,se miner 
+réapparaître,connaître,réapparaissant,réapparu,–
+flamber,parler,flambant,flambé,–
+croître,accroître,croissant,"cri class=""defect""ûi",–
+succomber,parler,succombant,succombé,–
+duper,parler,dupant,dupé,se duper 
+gésir,gésir,gisant,–,–
+caser,parler,casant,casé,se caser 
+dissiper,parler,dissipant,dissipé,–
+dérailler,parler,déraillant,déraillé,–
+vibrer,parler,vibrant,vibré,–
+intituler,parler,intitulant,intitulé,–
+présider,parler,présidant,présidé,–
+souligner,parler,soulignant,souligné,–
+dévouer,parler,dévouant,dévoué,se dévouer 
+renouveler,appeler,renouvelant,renouvelé,se renouveler 
+importuner,parler,importunant,importuné,–
+pourchasser,parler,pourchassant,pourchassé,se pourchasser 
+révolter,parler,révoltant,révolté,se révolter 
+allier,copier,alliant,allié,s'allier 
+truquer,parler,truquant,truqué,–
+stimuler,parler,stimulant,stimulé,se stimuler 
+compenser,parler,compensant,compensé,–
+cramer,parler,cramant,cramé,se cramer 
+peupler,parler,peuplant,peuplé,–
+engloutir,choisir,engloutissant,englouti,–
+répugner,parler,répugnant,répugné,–
+dépouiller,parler,dépouillant,dépouillé,se dépouiller 
+persécuter,parler,persécutant,persécuté,–
+épanouir,choisir,épanouissant,épanoui,s'épanouir 
+combiner,parler,combinant,combiné,–
+divertir,choisir,divertissant,diverti,se divertir 
+figer,manger,figeant,figé,se figer 
+ligoter,parler,ligotant,ligoté,–
+flairer,parler,flairant,flairé,–
+accumuler,parler,accumulant,accumulé,–
+bercer,commencer,berçant,bercé,se bercer 
+damner,parler,damnant,damné,se damner 
+rincer,commencer,rinçant,rincé,se rincer 
+éjecter,parler,éjectant,éjecté,–
+frôler,parler,frôlant,frôlé,se frôler 
+solliciter,parler,sollicitant,sollicité,–
+enlacer,commencer,enlaçant,enlacé,s'enlacer 
+transpercer,commencer,transperçant,transpercé,se transpercer 
+daigner,parler,daignant,daigné,–
+faufiler,parler,faufilant,faufilé,se faufiler 
+esquiver,parler,esquivant,esquivé,s'esquiver 
+trimer,parler,trimant,trimé,–
+incendier,copier,incendiant,incendié,–
+attarder,parler,attardant,attardé,s'attarder 
+enfouir,choisir,enfouissant,enfoui,s'enfouir 
+diplômer,parler,diplômant,diplômé,–
+klaxonner,parler,klaxonnant,klaxonné,–
+orchestrer,parler,orchestrant,orchestré,–
+dériver,parler,dérivant,dérivé,–
+paumer,parler,paumant,paumé,se paumer 
+trouer,parler,trouant,troué,–
+crucifier,copier,crucifiant,crucifié,–
+assigner,parler,assignant,assigné,s'assigner 
+succéder,céder,succédant,succédé,se succéder 
+charrier,copier,charriant,charrié,–
+savourer,parler,savourant,savouré,–
+indigner,parler,indignant,indigné,s'indigner 
+appréhender,parler,appréhendant,appréhendé,–
+rappliquer,parler,rappliquant,rappliqué,se rappliquer 
+tatouer,parler,tatouant,tatoué,se tatouer 
+abréger,protéger,abrégeant,abrégé,s'abréger 
+déboucher,parler,débouchant,débouché,–
+interner,parler,internant,interné,s'interner 
+caler,parler,calant,calé,se caler 
+gaver,parler,gavant,gavé,se gaver 
+nécessiter,parler,nécessitant,nécessité,–
+anticiper,parler,anticipant,anticipé,–
+blasphémer,céder,blasphémant,blasphémé,–
+broyer,employer,broyant,broyé,se broyer 
+doter,parler,dotant,doté,se doter 
+sélectionner,parler,sélectionnant,sélectionné,–
+biper,parler,bipant,bipé,–
+mendier,copier,mendiant,mendié,–
+recharger,manger,rechargeant,rechargé,se recharger 
+reconstituer,parler,reconstituant,reconstitué,se reconstituer 
+spécialiser,parler,spécialisant,spécialisé,se spécialiser 
+bricoler,parler,bricolant,bricolé,se bricoler 
+décamper,parler,décampant,décampé,–
+écorcher,parler,écorchant,écorché,s'écorcher 
+saccager,manger,saccageant,saccagé,–
+mobiliser,parler,mobilisant,mobilisé,se mobiliser 
+chourer,parler,chourant,chouré,–
+fleurir,choisir,fleurissant,fleuri,se fleurir 
+tâter,parler,tâtant,tâté,se tâter 
+devancer,commencer,devançant,devancé,–
+dissoudre,absoudre,dissolvant,"dissous, i class=""defect""dissoute, dissoutesi",se dissoudre 
+susciter,parler,suscitant,suscité,–
+ensorceler,appeler,ensorcelant,ensorcelé,s'ensorceler 
+expérimenter,parler,expérimentant,expérimenté,–
+orienter,parler,orientant,orienté,s'orienter 
+entasser,parler,entassant,entassé,–
+masturber,parler,masturbant,masturbé,se masturber 
+éblouir,choisir,éblouissant,ébloui,s'éblouir 
+percuter,parler,percutant,percuté,–
+assembler,parler,assemblant,assemblé,s'assembler 
+frémir,choisir,frémissant,frémi,–
+bénéficier,copier,bénéficiant,bénéficié,–
+congeler,acheter,congelant,congelé,se congeler 
+déraper,parler,dérapant,dérapé,–
+fracasser,parler,fracassant,fracassé,–
+moisir,choisir,moisissant,moisi,–
+résigner,parler,résignant,résigné,se résigner 
+bûcher,parler,bûchant,bûché,se bûcher 
+sanctifier,copier,sanctifiant,sanctifié,se sanctifier 
+skier,copier,skiant,skié,–
+amocher,parler,amochant,amoché,s'amocher 
+remédier,copier,remédiant,remédié,–
+incinérer,céder,incinérant,incinéré,–
+rabaisser,parler,rabaissant,rabaissé,se rabaisser 
+border,parler,bordant,bordé,se border 
+mûrir,choisir,mûrissant,mûri,–
+conter,parler,contant,conté,se conter 
+déguerpir,choisir,déguerpissant,déguerpi,–
+enrouler,parler,enroulant,enroulé,s'enrouler 
+froisser,parler,froissant,froissé,–
+masquer,parler,masquant,masqué,se masquer 
+resserrer,parler,resserrant,resserré,se resserrer 
+faner,parler,fanant,fané,–
+hypnotiser,parler,hypnotisant,hypnotisé,s'hypnotiser 
+émerger,manger,émergeant,émergé,s'émerger 
+décapiter,parler,décapitant,décapité,–
+redemander,parler,redemandant,redemandé,se redemander 
+différer,céder,différant,différé,–
+teindre,atteindre,teignant,teint,se teindre 
+dégrader,parler,dégradant,dégradé,se dégrader 
+recoucher,parler,recouchant,recouché,se recoucher 
+traire,distraire,trayant,trait,se traire 
+comploter,parler,complotant,comploté,–
+gicler,parler,giclant,giclé,–
+trier,copier,triant,trié,–
+chevaucher,parler,chevauchant,chevauché,se chevaucher 
+frimer,parler,frimant,frimé,–
+dissuader,parler,dissuadant,dissuadé,se dissuader 
+persister,parler,persistant,persisté,–
+alléger,protéger,allégeant,allégé,s'alléger 
+ravager,manger,ravageant,ravagé,se ravager 
+clarifier,copier,clarifiant,clarifié,–
+amputer,parler,amputant,amputé,s'amputer 
+gracier,copier,graciant,gracié,se gracier 
+nouer,parler,nouant,noué,–
+riposter,parler,ripostant,riposté,–
+superviser,parler,supervisant,supervisé,–
+couver,parler,couvant,couvé,–
+déballer,parler,déballant,déballé,se déballer 
+initier,copier,initiant,initié,s'initier 
+déjouer,parler,déjouant,déjoué,–
+submerger,manger,submergeant,submergé,–
+berner,parler,bernant,berné,se berner 
+dépanner,parler,dépannant,dépanné,se dépanner 
+rafler,parler,raflant,raflé,–
+décliner,parler,déclinant,décliné,–
+bafouer,parler,bafouant,bafoué,se bafouer 
+dessécher,céder,desséchant,desséché,se dessécher 
+stocker,parler,stockant,stocké,–
+administrer,parler,administrant,administré,s'administrer 
+broder,parler,brodant,brodé,–
+formuler,parler,formulant,formulé,–
+grignoter,parler,grignotant,grignoté,–
+accroître,accroître,accroissant,accru,s'accroître 
+fausser,parler,faussant,faussé,–
+rejouer,parler,rejouant,rejoué,se rejouer 
+rétrécir,choisir,rétrécissant,rétréci,se rétrécir 
+retaper,parler,retapant,retapé,se retaper 
+éternuer,parler,éternuant,éternué,–
+dégoter,parler,dégotant,dégoté,se dégoter 
+river,parler,rivant,rivé,se river 
+amasser,parler,amassant,amassé,s'amasser 
+compatir,choisir,compatissant,compati,–
+consigner,parler,consignant,consigné,–
+revaloir,valoir,revalant,revalu,se revaloir 
+ratisser,parler,ratissant,ratissé,se ratisser 
+halluciner,parler,hallucinant,halluciné,–
+rebondir,choisir,rebondissant,rebondi,se rebondir 
+embellir,choisir,embellissant,embelli,s'embellir 
+défouler,parler,défoulant,défoulé,se défouler 
+farcir,choisir,farcissant,farci,se farcir 
+implanter,parler,implantant,implanté,s'implanter 
+polluer,parler,polluant,pollué,se polluer 
+ébranler,parler,ébranlant,ébranlé,s'ébranler 
+désapprouver,parler,désapprouvant,désapprouvé,se désapprouver 
+piler,parler,pilant,pilé,–
+contracter,parler,contractant,contracté,se contracter 
+disjoncter,parler,disjonctant,disjoncté,–
+incarner,parler,incarnant,incarné,s'incarner 
+sonder,parler,sondant,sondé,se sonder 
+décimer,parler,décimant,décimé,–
+défigurer,parler,défigurant,défiguré,se défigurer 
+empester,parler,empestant,empesté,–
+griffer,parler,griffant,griffé,se griffer 
+étirer,parler,étirant,étiré,s'étirer 
+adoucir,choisir,adoucissant,adouci,s'adoucir 
+dispenser,parler,dispensant,dispensé,se dispenser 
+désinfecter,parler,désinfectant,désinfecté,se désinfecter 
+repêcher,parler,repêchant,repêché,se repêcher 
+ruer,parler,ruant,rué,se ruer 
+échauffer,parler,échauffant,échauffé,s'échauffer 
+éplucher,parler,épluchant,épluché,s'éplucher 
+favoriser,parler,favorisant,favorisé,se favoriser 
+châtier,copier,châtiant,châtié,–
+renfermer,parler,renfermant,renfermé,se renfermer 
+prostituer,parler,prostituant,prostitué,se prostituer 
+effleurer,parler,effleurant,effleuré,s'effleurer 
+immobiliser,parler,immobilisant,immobilisé,s'immobiliser 
+saper,parler,sapant,sapé,se saper 
+sévir,choisir,sévissant,sévi,–
+affliger,manger,affligeant,affligé,s'affliger 
+braver,parler,bravant,bravé,se braver 
+souder,parler,soudant,soudé,se souder 
+torcher,parler,torchant,torché,se torcher 
+tricoter,parler,tricotant,tricoté,–
+différencier,copier,différenciant,différencié,se différencier 
+sommer,parler,sommant,sommé,–
+raffoler,parler,raffolant,raffolé,–
+émigrer,parler,émigrant,émigré,s'émigrer 
+galoper,parler,galopant,galopé,–
+verger,manger,vergeant,vergé,–
+profaner,parler,profanant,profané,se profaner 
+retravailler,parler,retravaillant,retravaillé,–
+ruser,parler,rusant,rusé,–
+entuber,parler,entubant,entubé,–
+orner,parler,ornant,orné,s'orner 
+pulvériser,parler,pulvérisant,pulvérisé,–
+démanger,manger,démangeant,démangé,–
+ensevelir,choisir,ensevelissant,enseveli,s'ensevelir 
+grouper,parler,groupant,groupé,se grouper 
+régir,choisir,régissant,régi,–
+regrouper,parler,regroupant,regroupé,se regrouper 
+abolir,choisir,abolissant,aboli,–
+étriper,parler,étripant,étripé,–
+démentir,partir,démentant,démenti,se démentir 
+enivrer,parler,enivrant,enivré,s'enivrer 
+fouler,parler,foulant,foulé,se fouler 
+remballer,parler,remballant,remballé,–
+tramer,parler,tramant,tramé,–
+dédommager,manger,dédommageant,dédommagé,se dédommager 
+étreindre,atteindre,étreignant,étreint,s'étreindre 
+décoder,parler,décodant,décodé,–
+dévier,copier,déviant,dévié,–
+enrôler,parler,enrôlant,enrôlé,s'enrôler 
+flancher,parler,flanchant,flanché,–
+référer,céder,référant,référé,se référer 
+grogner,parler,grognant,grogné,–
+astiquer,parler,astiquant,astiqué,s'astiquer 
+boulanger,manger,boulangeant,boulangé,–
+épeler,appeler,épelant,épelé,s'épeler 
+acharner,parler,acharnant,acharné,secharner 
+conférer,céder,conférant,conféré,–
+longer,manger,longeant,longé,–
+puiser,parler,puisant,puisé,–
+tisser,parler,tissant,tissé,–
+attendrir,choisir,attendrissant,attendri,s'attendrir 
+déguster,parler,dégustant,dégusté,–
+dégénérer,céder,dégénérant,dégénéré,–
+réintégrer,céder,réintégrant,réintégré,–
+traumatiser,parler,traumatisant,traumatisé,se traumatiser 
+empocher,parler,empochant,empoché,–
+insérer,céder,insérant,inséré,s'insérer 
+privilégier,copier,privilégiant,privilégié,se privilégier 
+ranimer,parler,ranimant,ranimé,se ranimer 
+sculpter,parler,sculptant,sculpté,–
+éclipser,parler,éclipsant,éclipsé,s'éclipser 
+divaguer,parler,divaguant,divagué,–
+brailler,parler,braillant,braillé,–
+rôtir,choisir,rôtissant,rôti,–
+visser,parler,vissant,vissé,se visser 
+revendiquer,parler,revendiquant,revendiqué,se revendiquer 
+glander,parler,glandant,glandé,–
+décomposer,parler,décomposant,décomposé,se décomposer 
+exhiber,parler,exhibant,exhibé,s'exhiber 
+répartir,choisir,répartissant,réparti,se répartir 
+siéger,protéger,siégeant,siégé,–
+retentir,choisir,retentissant,retenti,–
+assaillir,assaillir,assaillant,assailli,s'assaillir 
+chantonner,parler,chantonnant,chantonné,–
+courber,parler,courbant,courbé,se courber 
+grincer,commencer,grinçant,grincé,–
+marchander,parler,marchandant,marchandé,–
+pirater,parler,piratant,piraté,–
+recoller,parler,recollant,recollé,se recoller 
+déconseiller,parler,déconseillant,déconseillé,–
+embaumer,parler,embaumant,embaumé,–
+escroquer,parler,escroquant,escroqué,–
+générer,céder,générant,généré,–
+transcender,parler,transcendant,transcendé,se transcender 
+agripper,parler,agrippant,agrippé,s'agripper 
+fuguer,parler,fuguant,fugué,–
+perpétuer,parler,perpétuant,perpétué,se perpétuer 
+éventrer,parler,éventrant,éventré,–
+cligner,parler,clignant,cligné,–
+désamorcer,commencer,désamorçant,désamorcé,se désamorcer 
+simplifier,copier,simplifiant,simplifié,se simplifier 
+courtiser,parler,courtisant,courtisé,–
+décommander,parler,décommandant,décommandé,se décommander 
+incruster,parler,incrustant,incrusté,–
+railler,parler,raillant,raillé,se railler 
+sauvegarder,parler,sauvegardant,sauvegardé,–
+tondre,vendre,tondant,tondu,se tondre 
+émaner,parler,émanant,émané,–
+chambouler,parler,chamboulant,chamboulé,–
+épingler,parler,épinglant,épinglé,–
+déformer,parler,déformant,déformé,se déformer 
+déporter,parler,déportant,déporté,se déporter 
+interférer,céder,interférant,interféré,–
+enclencher,parler,enclenchant,enclenché,–
+impatienter,parler,impatientant,impatienté,s'impatienter 
+omettre,mettre,omettant,omis,s'omettre 
+redoubler,parler,redoublant,redoublé,se redoubler 
+vautrer,parler,vautrant,vautré,se vautrer 
+zapper,parler,zappant,zappé,–
+jaser,parler,jasant,jasé,–
+réprimer,parler,réprimant,réprimé,se réprimer 
+attrister,parler,attristant,attristé,s'attrister 
+commenter,parler,commentant,commenté,–
+varier,copier,variant,varié,–
+voguer,parler,voguant,vogué,–
+frustrer,parler,frustrant,frustré,se frustrer 
+revêtir,vêtir,revêtant,revêtu,se revêtir 
+adhérer,céder,adhérant,adhéré,–
+attester,parler,attestant,attesté,–
+dorer,parler,dorant,doré,se dorer 
+embraser,parler,embrasant,embrasé,s'embraser 
+absoudre,absoudre,absolvant,"absous, i class=""defect""absoute, absoutesi",s'absoudre 
+trotter,parler,trottant,trotté,se trotter 
+aérer,céder,aérant,aéré,s'aérer 
+engraisser,parler,engraissant,engraissé,–
+menotter,parler,menottant,menotté,se menotter 
+récapituler,parler,récapitulant,récapitulé,se récapituler 
+symboliser,parler,symbolisant,symbolisé,–
+réécrire,écrire,réécrivant,réécrit,se réécrire 
+aventurer,parler,aventurant,aventuré,s'aventurer 
+instaurer,parler,instaurant,instauré,s'instaurer 
+relayer,payer,relayant,relayé,se relayer 
+aiguiser,parler,aiguisant,aiguisé,s'aiguiser 
+altérer,céder,altérant,altéré,s'altérer 
+convier,copier,conviant,convié,–
+faiblir,choisir,faiblissant,faibli,–
+mutiler,parler,mutilant,mutilé,se mutiler 
+terrer,parler,terrant,terré,se terrer 
+bâillonner,parler,bâillonnant,bâillonné,se bâillonner 
+bégayer,payer,bégayant,bégayé,–
+clamer,parler,clamant,clamé,–
+détromper,parler,détrompant,détrompé,se détromper 
+déconnecter,parler,déconnectant,déconnecté,se déconnecter 
+enrhumer,parler,enrhumant,enrhumé,s'enrhumer 
+gravir,choisir,gravissant,gravi,–
+illustrer,parler,illustrant,illustré,s'illustrer 
+jeûner,parler,jeûnant,jeûné,–
+priser,parler,prisant,prisé,se priser 
+toper,parler,topant,topé,–
+barder,parler,bardant,bardé,se barder 
+faxer,parler,faxant,faxé,–
+filtrer,parler,filtrant,filtré,–
+résulter,parler,résultant,résulté,–
+auditionner,parler,auditionnant,auditionné,–
+mémoriser,parler,mémorisant,mémorisé,–
+abrutir,choisir,abrutissant,abruti,s'abrutir 
+innocenter,parler,innocentant,innocenté,s'innocenter 
+labourer,parler,labourant,labouré,–
+délier,copier,déliant,délié,–
+moucher,parler,mouchant,mouché,se moucher 
+télécharger,manger,téléchargeant,téléchargé,–
+desserrer,parler,desserrant,desserré,–
+frayer,payer,frayant,frayé,se frayer 
+friser,parler,frisant,frisé,se friser 
+immoler,parler,immolant,immolé,s'immoler 
+loucher,parler,louchant,louché,–
+patiner,parler,patinant,patiné,–
+patrouiller,parler,patrouillant,patrouillé,–
+déplorer,parler,déplorant,déploré,–
+apitoyer,employer,apitoyant,apitoyé,s'apitoyer 
+certifier,copier,certifiant,certifié,se certifier 
+comparaître,connaître,comparaissant,comparu,–
+surcharger,manger,surchargeant,surchargé,se surcharger 
+évaporer,parler,évaporant,évaporé,s'évaporer 
+encadrer,parler,encadrant,encadré,–
+cocher,parler,cochant,coché,–
+dévaster,parler,dévastant,dévasté,–
+falsifier,copier,falsifiant,falsifié,–
+dégommer,parler,dégommant,dégommé,–
+rosser,parler,rossant,rossé,–
+asperger,manger,aspergeant,aspergé,s'asperger 
+assécher,céder,asséchant,asséché,s'assécher 
+divulguer,parler,divulguant,divulgué,–
+graisser,parler,graissant,graissé,–
+rapatrier,copier,rapatriant,rapatrié,se rapatrier 
+suffoquer,parler,suffoquant,suffoqué,–
+séjourner,parler,séjournant,séjourné,–
+terrasser,parler,terrassant,terrassé,–
+atténuer,parler,atténuant,atténué,s'atténuer 
+fourguer,parler,fourguant,fourgué,–
+roupiller,parler,roupillant,roupillé,–
+écoper,parler,écopant,écopé,–
+barricader,parler,barricadant,barricadé,se barricader 
+déchiqueter,appeler,déchiquetant,déchiqueté,se déchiqueter 
+raccourcir,choisir,raccourcissant,raccourci,–
+alarmer,parler,alarmant,alarmé,s'alarmer 
+concorder,parler,concordant,concordé,–
+délibérer,céder,délibérant,délibéré,–
+entrevoir,voir,entrevoyant,entrevu,s'entrevoir 
+plumer,parler,plumant,plumé,–
+postuler,parler,postulant,postulé,–
+restituer,parler,restituant,restitué,se restituer 
+élucider,parler,élucidant,élucidé,–
+côtoyer,employer,côtoyant,côtoyé,se côtoyer 
+dramatiser,parler,dramatisant,dramatisé,–
+expier,copier,expiant,expié,–
+modeler,acheter,modelant,modelé,se modeler 
+resplendir,choisir,resplendissant,resplendi,–
+réchapper,parler,réchappant,réchappé,–
+vagabonder,parler,vagabondant,vagabondé,–
+chavirer,parler,chavirant,chaviré,–
+exiler,parler,exilant,exilé,s'exiler 
+inaugurer,parler,inaugurant,inauguré,–
+recopier,copier,recopiant,recopié,–
+apprivoiser,parler,apprivoisant,apprivoisé,s'apprivoiser 
+exceller,parler,excellant,excellé,–
+blinder,parler,blindant,blindé,se blinder 
+crouler,parler,croulant,croulé,–
+embobiner,parler,embobinant,embobiné,–
+percher,parler,perchant,perché,se percher 
+foudroyer,employer,foudroyant,foudroyé,–
+fusionner,parler,fusionnant,fusionné,–
+outrager,manger,outrageant,outragé,s'outrager 
+débiner,parler,débinant,débiné,se débiner 
+rallier,copier,ralliant,rallié,se rallier 
+chiper,parler,chipant,chipé,–
+greffer,parler,greffant,greffé,se greffer 
+intuber,parler,intubant,intubé,–
+rénover,parler,rénovant,rénové,–
+handicaper,parler,handicapant,handicapé,–
+soutirer,parler,soutirant,soutiré,–
+capituler,parler,capitulant,capitulé,–
+convoiter,parler,convoitant,convoité,–
+exaspérer,céder,exaspérant,exaspéré,s'exaspérer 
+délaisser,parler,délaissant,délaissé,se délaisser 
+ramollir,choisir,ramollissant,ramolli,se ramollir 
+scruter,parler,scrutant,scruté,se scruter 
+endosser,parler,endossant,endossé,–
+esquinter,parler,esquintant,esquinté,s'esquinter 
+paître,paître,paissant,pu,–
+détailler,parler,détaillant,détaillé,–
+entraver,parler,entravant,entravé,s'entraver 
+enfler,parler,enflant,enflé,–
+lester,parler,lestant,lesté,se lester 
+perfectionner,parler,perfectionnant,perfectionné,se perfectionner 
+sangloter,parler,sanglotant,sangloté,–
+recracher,parler,recrachant,recraché,–
+accommoder,parler,accommodant,accommodé,s'accommoder 
+curer,parler,curant,curé,se curer 
+peigner,parler,peignant,peigné,–
+resservir,servir,resservant,resservi,se resservir 
+élancer,commencer,élançant,élancé,s'élancer 
+dépeindre,atteindre,dépeignant,dépeint,se dépeindre 
+détraquer,parler,détraquant,détraqué,–
+recréer,créer,recréant,recréé,se recréer 
+équivaloir,valoir,équivalant,équivalu,s'équivaloir 
+encombrer,parler,encombrant,encombré,s'encombrer 
+tanner,parler,tannant,tanné,–
+écrabouiller,parler,écrabouillant,écrabouillé,–
+feuilleter,appeler,feuilletant,feuilleté,se feuilleter 
+frissonner,parler,frissonnant,frissonné,–
+rabattre,battre,rabattant,rabattu,se rabattre 
+tasser,parler,tassant,tassé,se tasser 
+bourdonner,parler,bourdonnant,bourdonné,–
+cicatriser,parler,cicatrisant,cicatrisé,–
+rouer,parler,rouant,roué,se rouer 
+borner,parler,bornant,borné,se borner 
+camoufler,parler,camouflant,camouflé,se camoufler 
+coder,parler,codant,codé,–
+décerner,parler,décernant,décerné,–
+fortifier,copier,fortifiant,fortifié,se fortifier 
+taxer,parler,taxant,taxé,se taxer 
+assoupir,choisir,assoupissant,assoupi,s'assoupir 
+dédaigner,parler,dédaignant,dédaigné,–
+hacher,parler,hachant,haché,–
+pressentir,partir,pressentant,pressenti,se pressentir 
+boutonner,parler,boutonnant,boutonné,se boutonner 
+censurer,parler,censurant,censuré,se censurer 
+civiliser,parler,civilisant,civilisé,se civiliser 
+collecter,parler,collectant,collecté,–
+congédier,copier,congédiant,congédié,–
+pétrifier,copier,pétrifiant,pétrifié,se pétrifier 
+raviver,parler,ravivant,ravivé,se raviver 
+soustraire,distraire,soustrayant,soustrait,se soustraire 
+reluquer,parler,reluquant,reluqué,–
+éparpiller,parler,éparpillant,éparpillé,s'éparpiller 
+assouvir,choisir,assouvissant,assouvi,s'assouvir 
+coordonner,parler,coordonnant,coordonné,se coordonner 
+quereller,parler,querellant,querellé,se quereller 
+dompter,parler,domptant,dompté,se dompter 
+noircir,choisir,noircissant,noirci,se noircir 
+replonger,manger,replongeant,replongé,se replonger 
+accoupler,parler,accouplant,accouplé,s'accoupler 
+dérouiller,parler,dérouillant,dérouillé,se dérouiller 
+dévisager,manger,dévisageant,dévisagé,–
+jongler,parler,jonglant,jonglé,–
+rattacher,parler,rattachant,rattaché,se rattacher 
+atteler,appeler,attelant,attelé,s'atteler 
+cavaler,parler,cavalant,cavalé,–
+réquisitionner,parler,réquisitionnant,réquisitionné,–
+sympathiser,parler,sympathisant,sympathisé,–
+chamailler,parler,chamaillant,chamaillé,se chamailler 
+endurcir,choisir,endurcissant,endurci,s'endurcir 
+minimiser,parler,minimisant,minimisé,se minimiser 
+réputer,parler,réputant,réputé,–
+synchroniser,parler,synchronisant,synchronisé,se synchroniser 
+bafouiller,parler,bafouillant,bafouillé,–
+désintégrer,céder,désintégrant,désintégré,–
+malmener,lever,malmenant,malmené,se malmener 
+subsister,parler,subsistant,subsisté,–
+tripler,parler,triplant,triplé,–
+élaborer,parler,élaborant,élaboré,–
+électrocuter,parler,électrocutant,électrocuté,s'électrocuter 
+amorcer,commencer,amorçant,amorcé,s'amorcer 
+dénuer,parler,dénuant,dénué,–
+munir,choisir,munissant,muni,se munir 
+rider,parler,ridant,ridé,se rider 
+choir,choir,–,chu,–
+crisper,parler,crispant,crispé,se crisper 
+infester,parler,infestant,infesté,–
+séquestrer,parler,séquestrant,séquestré,se séquestrer 
+arrondir,choisir,arrondissant,arrondi,s'arrondir 
+fantasmer,parler,fantasmant,fantasmé,se fantasmer 
+lisser,parler,lissant,lissé,se lisser 
+minuter,parler,minutant,minuté,–
+radoter,parler,radotant,radoté,–
+rectifier,copier,rectifiant,rectifié,–
+ricaner,parler,ricanant,ricané,–
+voiturer,parler,voiturant,voituré,se voiturer 
+épiler,parler,épilant,épilé,s'épiler 
+sous-entendre,vendre,sous-entendant,sous-entendu,–
+cartonner,parler,cartonnant,cartonné,–
+recouvrer,parler,recouvrant,recouvré,–
+actionner,parler,actionnant,actionné,–
+morfler,parler,morflant,morflé,–
+primer,parler,primant,primé,se primer 
+arpenter,parler,arpentant,arpenté,–
+assortir,choisir,assortissant,assorti,s'assortir 
+déceler,acheter,décelant,décelé,se déceler 
+exorciser,parler,exorcisant,exorcisé,–
+sillonner,parler,sillonnant,sillonné,–
+uriner,parler,urinant,uriné,–
+volatiliser,parler,volatilisant,volatilisé,se volatiliser 
+rivaliser,parler,rivalisant,rivalisé,–
+opter,parler,optant,opté,–
+retoucher,parler,retouchant,retouché,–
+éclabousser,parler,éclaboussant,éclaboussé,s'éclabousser 
+éjaculer,parler,éjaculant,éjaculé,–
+broncher,parler,bronchant,bronché,–
+déverser,parler,déversant,déversé,–
+justicier,copier,justiciant,justicié,–
+rasseoir,asseoir,"rasseyant, rassoyant",rassis,se rasseoir 
+équilibrer,parler,équilibrant,équilibré,s'équilibrer 
+enfanter,parler,enfantant,enfanté,–
+ferrer,parler,ferrant,ferré,–
+immuniser,parler,immunisant,immunisé,s'immuniser 
+tortiller,parler,tortillant,tortillé,se tortiller 
+aménager,manger,aménageant,aménagé,s'aménager 
+façonner,parler,façonnant,façonné,–
+immerger,manger,immergeant,immergé,s'immerger 
+chagriner,parler,chagrinant,chagriné,–
+débouler,parler,déboulant,déboulé,–
+déloger,manger,délogeant,délogé,–
+tonner,parler,tonnant,tonné,–
+coïncider,parler,coïncidant,coïncidé,–
+diagnostiquer,parler,diagnostiquant,diagnostiqué,se diagnostiquer 
+narguer,parler,narguant,nargué,–
+valser,parler,valsant,valsé,–
+casquer,parler,casquant,casqué,se casquer 
+recourir,courir,recourant,recouru,se recourir 
+soudoyer,employer,soudoyant,soudoyé,se soudoyer 
+épauler,parler,épaulant,épaulé,–
+aplatir,choisir,aplatissant,aplati,s'aplatir 
+dédicacer,commencer,dédicaçant,dédicacé,se dédicacer 
+ériger,manger,érigeant,érigé,s'ériger 
+bouillonner,parler,bouillonnant,bouillonné,–
+boumer,parler,boumant,–,–
+chopper,parler,choppant,choppé,–
+cibler,parler,ciblant,ciblé,–
+déléguer,céder,déléguant,délégué,se déléguer 
+facturer,parler,facturant,facturé,–
+pister,parler,pistant,pisté,–
+redémarrer,parler,redémarrant,redémarré,–
+sucrer,parler,sucrant,sucré,se sucrer 
+baratiner,parler,baratinant,baratiné,–
+parfumer,parler,parfumant,parfumé,se parfumer 
+attiser,parler,attisant,attisé,–
+canaliser,parler,canalisant,canalisé,se canaliser 
+refouler,parler,refoulant,refoulé,se refouler 
+affranchir,choisir,affranchissant,affranchi,s'affranchir 
+bâiller,parler,bâillant,bâillé,–
+débiter,parler,débitant,débité,–
+gager,manger,gageant,gagé,–
+poireauter,parler,poireautant,poireauté,–
+vaciller,parler,vacillant,vacillé,–
+accoster,parler,accostant,accosté,s'accoster 
+cribler,parler,criblant,criblé,se cribler 
+exalter,parler,exaltant,exalté,s'exalter 
+fricoter,parler,fricotant,fricoté,–
+perpétrer,céder,perpétrant,perpétré,–
+spéculer,parler,spéculant,spéculé,–
+gigoter,parler,gigotant,gigoté,–
+bonder,parler,bondant,bondé,–
+déambuler,parler,déambulant,déambulé,–
+empoigner,parler,empoignant,empoigné,–
+régénérer,céder,régénérant,régénéré,se régénérer 
+assombrir,choisir,assombrissant,assombri,s'assombrir 
+brusquer,parler,brusquant,brusqué,se brusquer 
+confiner,parler,confinant,confiné,se confiner 
+démanteler,acheter,démantelant,démantelé,se démanteler 
+photocopier,copier,photocopiant,photocopié,–
+surestimer,parler,surestimant,surestimé,se surestimer 
+tarir,choisir,tarissant,tari,se tarir 
+glorifier,copier,glorifiant,glorifié,se glorifier 
+corser,parler,corsant,corsé,se corser 
+envoûter,parler,envoûtant,envoûté,–
+focaliser,parler,focalisant,focalisé,se focaliser 
+injurier,copier,injuriant,injurié,s'injurier 
+palper,parler,palpant,palpé,se palper 
+saturer,parler,saturant,saturé,se saturer 
+seller,parler,sellant,sellé,–
+stipuler,parler,stipulant,stipulé,–
+épouvanter,parler,épouvantant,épouvanté,s'épouvanter 
+abouler,parler,aboulant,aboulé,s'abouler 
+déstabiliser,parler,déstabilisant,déstabilisé,se déstabiliser 
+hocher,parler,hochant,hoché,–
+préconiser,parler,préconisant,préconisé,se préconiser 
+ancrer,parler,ancrant,ancré,s'ancrer 
+concéder,céder,concédant,concédé,–
+durcir,choisir,durcissant,durci,se durcir 
+empiler,parler,empilant,empilé,–
+flétrir,choisir,flétrissant,flétri,se flétrir 
+peler,acheter,pelant,pelé,se peler 
+papoter,parler,papotant,papoté,–
+plomber,parler,plombant,plombé,–
+recycler,parler,recyclant,recyclé,se recycler 
+scintiller,parler,scintillant,scintillé,–
+vernir,choisir,vernissant,verni,se vernir 
+hausser,parler,haussant,haussé,–
+imprégner,céder,imprégnant,imprégné,s'imprégner 
+seconder,parler,secondant,secondé,–
+tapiner,parler,tapinant,tapiné,–
+égaliser,parler,égalisant,égalisé,–
+acclamer,parler,acclamant,acclamé,s'acclamer 
+communier,copier,communiant,communié,se communier 
+fracturer,parler,fracturant,fracturé,se fracturer 
+mouvoir,mouvoir,mouvant,"mû, i class=""defect""mue, mus, muesi",se mouvoir 
+prosterner,parler,prosternant,prosterné,se prosterner 
+regorger,manger,regorgeant,regorgé,–
+sectionner,parler,sectionnant,sectionné,se sectionner 
+seoir,seoir,"séant, seyant",–,–
+titrer,parler,titrant,titré,–
+croupir,choisir,croupissant,croupi,–
+engrosser,parler,engrossant,engrossé,–
+fêler,parler,fêlant,fêlé,–
+marmonner,parler,marmonnant,marmonné,–
+allaiter,parler,allaitant,allaité,–
+déboussoler,parler,déboussolant,déboussolé,–
+dépérir,choisir,dépérissant,dépéri,–
+enrayer,payer,enrayant,enrayé,s'enrayer 
+rugir,choisir,rugissant,rugi,–
+répertorier,copier,répertoriant,répertorié,–
+engourdir,choisir,engourdissant,engourdi,s'engourdir 
+recaler,parler,recalant,recalé,se recaler 
+adjoindre,joindre,adjoignant,adjoint,s'adjoindre 
+dépourvoir,pourvoir,dépourvoyant,dépourvu,se dépourvoir 
+rétracter,parler,rétractant,rétracté,se rétracter 
+téter,céder,tétant,tété,–
+blottir,choisir,blottissant,blotti,se blottir 
+incarcérer,céder,incarcérant,incarcéré,s'incarcérer 
+amortir,choisir,amortissant,amorti,–
+approfondir,choisir,approfondissant,approfondi,s'approfondir 
+calomnier,copier,calomniant,calomnié,–
+circoncire,confire,circoncisant,"i class=""defect""circoncisi",se circoncire 
+dessoûler,parler,dessoûlant,dessoûlé,se dessoûler 
+fredonner,parler,fredonnant,fredonné,–
+interposer,parler,interposant,interposé,s'interposer 
+opprimer,parler,opprimant,opprimé,–
+patauger,manger,pataugeant,pataugé,–
+détériorer,parler,détériorant,détérioré,se détériorer 
+induire,traduire,induisant,induit,s'induire 
+périmer,parler,périmant,périmé,se périmer 
+cramponner,parler,cramponnant,cramponné,se cramponner 
+enthousiasmer,parler,enthousiasmant,enthousiasmé,s'enthousiasmer 
+oranger,manger,orangeant,orangé,–
+profiler,parler,profilant,profilé,se profiler 
+recompter,parler,recomptant,recompté,–
+sommeiller,parler,sommeillant,sommeillé,–
+stationner,parler,stationnant,stationné,se stationner 
+conspirer,parler,conspirant,conspiré,–
+forer,parler,forant,foré,–
+ruminer,parler,ruminant,ruminé,–
+rééduquer,parler,rééduquant,rééduqué,se rééduquer 
+sursauter,parler,sursautant,sursauté,–
+tamponner,parler,tamponnant,tamponné,se tamponner 
+vacciner,parler,vaccinant,vacciné,se vacciner 
+brouter,parler,broutant,brouté,–
+chiffonner,parler,chiffonnant,chiffonné,–
+dégourdir,choisir,dégourdissant,dégourdi,se dégourdir 
+entêter,parler,entêtant,entêté,s'entêter 
+réanimer,parler,réanimant,réanimé,se réanimer 
+adjuger,manger,adjugeant,adjugé,s'adjuger 
+palpiter,parler,palpitant,palpité,–
+troquer,parler,troquant,troqué,–
+amplifier,copier,amplifiant,amplifié,–
+dérouter,parler,déroutant,dérouté,se dérouter 
+mortifier,copier,mortifiant,mortifié,–
+muer,parler,muant,mué,–
+pioncer,commencer,pionçant,pioncé,–
+scotcher,parler,scotchant,scotché,–
+conformer,parler,conformant,conformé,se conformer 
+daller,parler,dallant,dallé,–
+exhumer,parler,exhumant,exhumé,–
+trimbaler,parler,trimbalant,trimbalé,se trimbaler 
+discréditer,parler,discréditant,discrédité,–
+entonner,parler,entonnant,entonné,–
+lister,parler,listant,listé,–
+remorquer,parler,remorquant,remorqué,–
+appâter,parler,appâtant,appâté,–
+givrer,parler,givrant,givré,–

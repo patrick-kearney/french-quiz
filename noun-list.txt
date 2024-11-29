@@ -48,6 +48,6 @@ contrat,m,contract,True
 avantage,m,advantage,True
 salaire,m,salary/pay/reward,True
 architecture,f,architecture,True
-inconvenient,m,disadvantage/inconvenience/drawback,True
+inconvénient,m,disadvantage/inconvenience/drawback,True
 mallette,f,briefcase,True
 emploi,m,job,True
